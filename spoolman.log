@@ -1,28 +1,28 @@
-2025-11-20 00:00:00:INFO:Performing scheduled database backup.
-2025-11-20 00:00:00:INFO:Deleting oldest backup /root/.local/share/spoolman/backups/spoolman.db.5
-2025-11-20 00:00:00:INFO:Backing up SQLite database to /root/.local/share/spoolman/backups/spoolman.db
-2025-11-20 00:00:00:INFO:Copied 1 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 2 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 3 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 4 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 5 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 6 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 7 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 8 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 9 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 10 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 11 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 12 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 13 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 14 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 15 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 16 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 17 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 18 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 19 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 20 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 21 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 22 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 23 of 24 pages.
-2025-11-20 00:00:00:INFO:Copied 24 of 24 pages.
-2025-11-20 00:00:00:INFO:Backup complete.
+2025-11-21 00:00:00:INFO:Performing scheduled database backup.
+2025-11-21 00:00:00:INFO:Deleting oldest backup /root/.local/share/spoolman/backups/spoolman.db.5
+2025-11-21 00:00:00:INFO:Backing up SQLite database to /root/.local/share/spoolman/backups/spoolman.db
+2025-11-21 00:00:00:INFO:Copied 1 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 2 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 3 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 4 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 5 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 6 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 7 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 8 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 9 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 10 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 11 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 12 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 13 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 14 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 15 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 16 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 17 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 18 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 19 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 20 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 21 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 22 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 23 of 24 pages.
+2025-11-21 00:00:00:INFO:Copied 24 of 24 pages.
+2025-11-21 00:00:00:INFO:Backup complete.
