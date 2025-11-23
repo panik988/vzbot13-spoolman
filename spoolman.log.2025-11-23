@@ -1,0 +1,193 @@
+2025-11-23 00:00:00:INFO:Performing scheduled database backup.
+2025-11-23 00:00:00:INFO:Deleting oldest backup /root/.local/share/spoolman/backups/spoolman.db.5
+2025-11-23 00:00:00:INFO:Backing up SQLite database to /root/.local/share/spoolman/backups/spoolman.db
+2025-11-23 00:00:00:INFO:Copied 1 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 2 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 3 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 4 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 5 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 6 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 7 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 8 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 9 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 10 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 11 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 12 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 13 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 14 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 15 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 16 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 17 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 18 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 19 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 20 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 21 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 22 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 23 of 24 pages.
+2025-11-23 00:00:00:INFO:Copied 24 of 24 pages.
+2025-11-23 00:00:00:INFO:Backup complete.
+2025-11-23 00:03:21:INFO:Syncing external DB.
+2025-11-23 00:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 00:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 00:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 01:03:21:INFO:Syncing external DB.
+2025-11-23 01:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 01:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 01:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 02:03:21:INFO:Syncing external DB.
+2025-11-23 02:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 02:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 02:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 03:03:21:INFO:Syncing external DB.
+2025-11-23 03:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 03:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 03:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 04:03:21:INFO:Syncing external DB.
+2025-11-23 04:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 04:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 04:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 05:03:21:INFO:Syncing external DB.
+2025-11-23 05:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 05:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 05:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 06:03:21:INFO:Syncing external DB.
+2025-11-23 06:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 06:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 06:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 07:03:21:INFO:Syncing external DB.
+2025-11-23 07:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 07:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 07:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 08:03:21:INFO:Syncing external DB.
+2025-11-23 08:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 08:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 08:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 09:03:21:INFO:Syncing external DB.
+2025-11-23 09:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 09:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 09:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 09:05:17:INFO:Client 192.168.1.102 has stopped listening on pool spool
+2025-11-23 09:06:08:INFO:Client 192.168.1.102 is now listening on pool spool
+2025-11-23 10:03:21:INFO:Syncing external DB.
+2025-11-23 10:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 10:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 10:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 11:03:21:INFO:Syncing external DB.
+2025-11-23 11:03:26:ERROR:Unhandled exception in `scheduler.asyncio.job.Job(<JobType.CYCLIC: 1>, [datetime.timedelta(seconds=3600)], <function _sync at 0x7a5253db82c0>, (), {}, 0, True, datetime.datetime(2025, 11, 14, 10, 3, 21, 851351), None, False, None, None)`!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/dist-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/usr/local/lib/python3.11/dist-packages/httpx/_transports/default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "/usr/local/lib/python3.11/dist-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/httpcore/_async/connection.py", line 101, in handle_async_request
+    raise exc
+  File "/usr/local/lib/python3.11/dist-packages/httpcore/_async/connection.py", line 78, in handle_async_request
+    stream = await self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/httpcore/_async/connection.py", line 124, in _connect
+    stream = await self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/httpcore/_backends/auto.py", line 31, in connect_tcp
+    return await self._backend.connect_tcp(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/httpcore/_backends/anyio.py", line 113, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.11/contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/usr/local/lib/python3.11/dist-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/dist-packages/scheduler/asyncio/job.py", line 64, in _exec
+    await coroutine
+  File "/opt/spoolman/spoolman/externaldb.py", line 174, in _sync
+    filaments = _parse_filaments_from_bytes(await _download_file(urljoin(url, "filaments.json")))
+                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/spoolman/externaldb.py", line 139, in _download_file
+    response = await client.get(url)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/httpx/_client.py", line 1768, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/httpx/_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/httpx/_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/httpx/_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/httpx/_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/httpx/_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/hishel/_async/_transports.py", line 162, in handle_async_request
+    revalidation_response = await self._transport.handle_async_request(revalidation_request)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/httpx/_transports/default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.11/contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/usr/local/lib/python3.11/dist-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout
+2025-11-23 12:03:21:INFO:Syncing external DB.
+2025-11-23 12:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 12:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 12:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 13:03:21:INFO:Syncing external DB.
+2025-11-23 13:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 13:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 13:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 14:03:21:INFO:Syncing external DB.
+2025-11-23 14:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 14:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 14:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 15:03:21:INFO:Syncing external DB.
+2025-11-23 15:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 15:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 15:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 16:03:21:INFO:Syncing external DB.
+2025-11-23 16:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 16:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 16:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 17:03:21:INFO:Syncing external DB.
+2025-11-23 17:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 17:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 17:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 18:03:21:INFO:Syncing external DB.
+2025-11-23 18:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 18:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 18:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 19:03:21:INFO:Syncing external DB.
+2025-11-23 19:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 19:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 19:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 20:03:21:INFO:Syncing external DB.
+2025-11-23 20:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 20:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 20:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 21:03:21:INFO:Syncing external DB.
+2025-11-23 21:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 21:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 21:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 22:03:21:INFO:Syncing external DB.
+2025-11-23 22:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 22:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 22:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
+2025-11-23 23:03:21:INFO:Syncing external DB.
+2025-11-23 23:03:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-11-23 23:03:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-11-23 23:03:22:INFO:External DB synced. Filaments: 6325, Materials: 32
