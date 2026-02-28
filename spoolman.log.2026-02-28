@@ -1,0 +1,169 @@
+2026-02-28 00:00:00:INFO:Deleting oldest backup /root/.local/share/spoolman/backups/spoolman.db.5
+2026-02-28 00:00:00:INFO:Backing up SQLite database to /root/.local/share/spoolman/backups/spoolman.db
+2026-02-28 00:00:00:INFO:Copied 1 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 2 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 3 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 4 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 5 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 6 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 7 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 8 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 9 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 10 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 11 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 12 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 13 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 14 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 15 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 16 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 17 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 18 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 19 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 20 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 21 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 22 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 23 of 24 pages.
+2026-02-28 00:00:00:INFO:Copied 24 of 24 pages.
+2026-02-28 00:00:00:INFO:Backup complete.
+2026-02-28 00:26:45:INFO:Syncing external DB.
+2026-02-28 00:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 00:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 00:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 01:26:45:INFO:Syncing external DB.
+2026-02-28 01:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 01:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 01:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 02:26:45:INFO:Syncing external DB.
+2026-02-28 02:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 02:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 02:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 03:26:45:INFO:Syncing external DB.
+2026-02-28 03:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 03:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 03:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 04:26:45:INFO:Syncing external DB.
+2026-02-28 04:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 04:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 04:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 05:26:45:INFO:Syncing external DB.
+2026-02-28 05:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 05:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 05:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 06:26:45:INFO:Syncing external DB.
+2026-02-28 06:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 06:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 06:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 07:26:45:INFO:Syncing external DB.
+2026-02-28 07:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 07:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 07:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 08:26:45:INFO:Syncing external DB.
+2026-02-28 08:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 08:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 08:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 09:26:45:INFO:Syncing external DB.
+2026-02-28 09:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 09:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 09:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 10:18:36:INFO:Client 192.168.1.102 is now listening on pool spool
+2026-02-28 10:26:45:INFO:Syncing external DB.
+2026-02-28 10:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 10:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 10:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 11:26:45:INFO:Syncing external DB.
+2026-02-28 11:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 11:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 11:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 12:26:45:INFO:Syncing external DB.
+2026-02-28 12:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 12:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 12:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 13:26:45:INFO:Syncing external DB.
+2026-02-28 13:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 13:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 13:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 13:30:15:INFO:Client 192.168.1.102 has stopped listening on pool spool
+2026-02-28 13:30:53:INFO:Client 192.168.1.128 is now listening on pool spool
+2026-02-28 13:32:21:INFO:Client 192.168.1.102 is now listening on pool spool
+2026-02-28 13:32:25:INFO:Client 192.168.1.128 has stopped listening on pool spool
+2026-02-28 13:42:28:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-02-28 13:42:37:INFO:Client 192.168.1.102 has stopped listening on pool spool
+2026-02-28 13:43:18:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-02-28 13:43:55:INFO:Client 192.168.1.128 is now listening on pool spool
+2026-02-28 13:45:02:INFO:Client 192.168.1.102 is now listening on pool spool
+2026-02-28 13:45:05:INFO:Client 192.168.1.128 has stopped listening on pool spool
+2026-02-28 14:01:33:INFO:Client 192.168.1.102 has stopped listening on pool spool
+2026-02-28 14:01:41:INFO:Client 192.168.1.102 is now listening on pool spool
+2026-02-28 14:26:15:INFO:Client 192.168.1.102 has stopped listening on pool spool
+2026-02-28 14:26:45:INFO:Syncing external DB.
+2026-02-28 14:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 14:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 14:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 14:27:08:INFO:Client 192.168.1.102 is now listening on pool spool
+2026-02-28 15:26:45:INFO:Syncing external DB.
+2026-02-28 15:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 15:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 15:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 16:26:45:INFO:Syncing external DB.
+2026-02-28 16:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 16:26:45:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 16:26:45:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 17:16:24:INFO:Client 192.168.1.102 has stopped listening on pool spool
+2026-02-28 17:17:52:INFO:Starting Spoolman v0.22.1 (commit: 1888240) (built: 2025-03-18 20:42:38+00:00)
+2026-02-28 17:17:52:INFO:Using data directory: /root/.local/share/spoolman
+2026-02-28 17:17:52:INFO:Using logs directory: /root/.local/share/spoolman
+2026-02-28 17:17:52:INFO:Using backups directory: /root/.local/share/spoolman/backups
+2026-02-28 17:17:52:INFO:Setting up database...
+2026-02-28 17:17:52:INFO:No database type specified, using a default SQLite database located at "/root/.local/share/spoolman/spoolman.db"
+2026-02-28 17:17:52:INFO:Performing migrations...
+2026-02-28 17:17:53:INFO:Scheduling automatic database backup for midnight.
+2026-02-28 17:17:53:INFO:Scheduling external DB sync.
+2026-02-28 17:17:53:INFO:Startup complete.
+2026-02-28 17:17:53:INFO:Syncing external DB.
+2026-02-28 17:17:53:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 17:17:53:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 17:17:53:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 17:17:53:INFO:Client 192.168.1.102 is now listening on pool spool
+2026-02-28 17:27:19:INFO:Client 192.168.1.102 has stopped listening on pool spool
+2026-02-28 17:31:09:INFO:Client 192.168.1.102 is now listening on pool spool
+2026-02-28 18:17:53:INFO:Syncing external DB.
+2026-02-28 18:17:53:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 18:17:53:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 18:17:53:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 19:17:53:INFO:Syncing external DB.
+2026-02-28 19:17:53:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 19:17:53:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 19:17:53:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 19:40:56:INFO:Client 192.168.1.102 has stopped listening on pool spool
+2026-02-28 19:41:24:INFO:Client 192.168.1.102 is now listening on pool spool
+2026-02-28 20:17:53:INFO:Syncing external DB.
+2026-02-28 20:17:53:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 20:17:53:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 20:17:53:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 21:17:53:INFO:Syncing external DB.
+2026-02-28 21:17:53:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 21:17:53:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 21:17:53:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 22:17:53:INFO:Syncing external DB.
+2026-02-28 22:17:53:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 22:17:53:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 22:17:53:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 23:17:53:INFO:Syncing external DB.
+2026-02-28 23:17:53:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-02-28 23:17:53:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-02-28 23:17:53:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-02-28 23:32:08:INFO:Client 192.168.1.102 has stopped listening on pool spool
+2026-02-28 23:32:12:INFO:Client 192.168.1.102 is now listening on pool spool
+2026-02-28 23:33:35:INFO:Client 192.168.1.102 has stopped listening on pool spool
+2026-02-28 23:33:39:INFO:Client 192.168.1.102 is now listening on pool spool
+2026-02-28 23:38:02:INFO:Client 192.168.1.102 has stopped listening on pool spool
+2026-02-28 23:38:05:INFO:Client 192.168.1.102 is now listening on pool spool
+2026-02-28 23:44:05:INFO:Client 192.168.1.102 has stopped listening on pool spool
+2026-02-28 23:44:07:INFO:Client 192.168.1.102 is now listening on pool spool
+2026-02-28 23:48:57:INFO:Client 192.168.1.102 has stopped listening on pool spool
+2026-02-28 23:48:58:INFO:Client 192.168.1.102 is now listening on pool spool
+2026-02-28 23:55:23:INFO:Client 192.168.1.102 has stopped listening on pool spool
+2026-02-28 23:55:26:INFO:Client 192.168.1.102 is now listening on pool spool
+2026-02-28 23:56:55:INFO:Client 192.168.1.102 has stopped listening on pool spool
+2026-02-28 23:56:57:INFO:Client 192.168.1.102 is now listening on pool spool
+2026-02-28 23:59:59:INFO:Performing scheduled database backup.
