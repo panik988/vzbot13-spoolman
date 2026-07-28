@@ -1,84 +1,32 @@
-2026-07-23 00:00:00:INFO:Performing scheduled database backup.
-2026-07-23 00:00:00:INFO:Deleting oldest backup /root/.local/share/spoolman/backups/spoolman.db.5
-2026-07-23 00:00:00:INFO:Backing up SQLite database to /root/.local/share/spoolman/backups/spoolman.db
-2026-07-23 00:00:00:INFO:Copied 1 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 2 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 3 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 4 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 5 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 6 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 7 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 8 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 9 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 10 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 11 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 12 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 13 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 14 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 15 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 16 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 17 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 18 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 19 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 20 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 21 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 22 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 23 of 24 pages.
-2026-07-23 00:00:00:INFO:Copied 24 of 24 pages.
-2026-07-23 00:00:00:INFO:Backup complete.
-2026-07-23 00:39:13:INFO:Syncing external DB.
-2026-07-23 00:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 00:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 00:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 01:39:13:INFO:Syncing external DB.
-2026-07-23 01:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 01:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 01:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 02:39:13:INFO:Syncing external DB.
-2026-07-23 02:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 02:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 02:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 03:39:13:INFO:Syncing external DB.
-2026-07-23 03:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 03:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 03:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 04:39:13:INFO:Syncing external DB.
-2026-07-23 04:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 04:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 04:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 05:39:13:INFO:Syncing external DB.
-2026-07-23 05:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 05:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 05:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 06:39:13:INFO:Syncing external DB.
-2026-07-23 06:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 06:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 06:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 07:39:13:INFO:Syncing external DB.
-2026-07-23 07:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 07:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 07:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 08:39:13:INFO:Syncing external DB.
-2026-07-23 08:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 08:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 08:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 09:39:13:INFO:Syncing external DB.
-2026-07-23 09:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 09:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 09:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 10:39:13:INFO:Syncing external DB.
-2026-07-23 10:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 10:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 10:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 11:39:13:INFO:Syncing external DB.
-2026-07-23 11:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 11:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 11:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 12:39:13:INFO:Syncing external DB.
-2026-07-23 12:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 12:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 12:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 13:01:37:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 00:00:00:INFO:Performing scheduled database backup.
+2026-07-28 00:00:00:INFO:Deleting oldest backup /root/.local/share/spoolman/backups/spoolman.db.5
+2026-07-28 00:00:00:INFO:Backing up SQLite database to /root/.local/share/spoolman/backups/spoolman.db
+2026-07-28 00:00:00:INFO:Copied 1 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 2 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 3 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 4 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 5 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 6 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 7 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 8 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 9 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 10 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 11 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 12 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 13 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 14 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 15 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 16 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 17 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 18 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 19 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 20 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 21 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 22 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 23 of 24 pages.
+2026-07-28 00:00:00:INFO:Copied 24 of 24 pages.
+2026-07-28 00:00:00:INFO:Backup complete.
+2026-07-28 00:34:44:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -110,17 +58,19 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 13:01:37:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 13:01:37:INFO:connection closed
-2026-07-23 13:01:38:INFO:192.168.1.101:60656 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 13:01:38:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 13:01:38:INFO:connection open
-2026-07-23 13:02:45:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 13:02:45:INFO:connection closed
-2026-07-23 13:02:48:INFO:192.168.1.101:60800 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 13:02:48:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 13:02:48:INFO:connection open
-2026-07-23 13:04:07:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 00:34:44:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 00:34:44:INFO:connection closed
+2026-07-28 00:34:46:INFO:192.168.1.101:41824 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 00:34:46:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 00:34:46:INFO:connection open
+2026-07-28 00:39:13:INFO:Syncing external DB.
+2026-07-28 00:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 00:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 00:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 01:03:52:INFO:192.168.1.101:44414 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 01:03:52:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 01:03:52:INFO:connection open
+2026-07-28 01:04:00:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -152,12 +102,13 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 13:04:07:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 13:04:07:INFO:connection closed
-2026-07-23 13:04:27:INFO:192.168.1.101:48502 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 13:04:27:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 13:04:27:INFO:connection open
-2026-07-23 13:05:39:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 01:04:00:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 01:04:00:INFO:connection closed
+2026-07-28 01:39:13:INFO:Syncing external DB.
+2026-07-28 01:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 01:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 01:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 02:04:19:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -189,12 +140,23 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 13:05:39:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 13:05:39:INFO:connection closed
-2026-07-23 13:05:52:INFO:192.168.1.101:46558 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 13:05:52:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 13:05:52:INFO:connection open
-2026-07-23 13:07:29:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 02:04:19:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 02:04:19:INFO:connection closed
+2026-07-28 02:04:19:INFO:192.168.1.101:56152 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 02:04:19:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 02:04:19:INFO:connection open
+2026-07-28 02:39:13:INFO:Syncing external DB.
+2026-07-28 02:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 02:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 02:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 03:39:13:INFO:Syncing external DB.
+2026-07-28 03:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 03:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 03:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 04:19:01:INFO:192.168.1.101:39076 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 04:19:01:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 04:19:01:INFO:connection open
+2026-07-28 04:19:09:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -226,19 +188,12 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 13:07:29:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 13:07:29:INFO:connection closed
-2026-07-23 13:07:35:INFO:192.168.1.101:36932 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 13:07:35:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 13:07:35:INFO:connection open
-2026-07-23 13:39:13:INFO:Syncing external DB.
-2026-07-23 13:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 13:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 13:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 13:50:43:INFO:192.168.1.101:35406 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 13:50:43:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 13:50:43:INFO:connection open
-2026-07-23 13:50:45:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 04:19:09:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 04:19:09:INFO:connection closed
+2026-07-28 04:37:08:INFO:192.168.1.101:43242 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 04:37:08:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 04:37:08:INFO:connection open
+2026-07-28 04:37:11:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -270,9 +225,16 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 13:50:45:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 13:50:45:INFO:connection closed
-2026-07-23 14:08:54:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 04:37:11:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 04:37:11:INFO:connection closed
+2026-07-28 04:39:13:INFO:Syncing external DB.
+2026-07-28 04:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 04:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 04:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 05:05:35:INFO:192.168.1.101:47786 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 05:05:35:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 05:05:35:INFO:connection open
+2026-07-28 05:05:36:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -304,20 +266,17 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 14:08:54:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 14:08:54:INFO:connection closed
-2026-07-23 14:09:13:INFO:192.168.1.101:48128 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 14:09:13:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 14:09:13:INFO:connection open
-2026-07-23 14:18:43:INFO:192.168.1.101:37262 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 14:18:43:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 14:18:43:INFO:connection open
-2026-07-23 14:18:45:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 14:18:45:INFO:connection closed
-2026-07-23 14:26:30:INFO:192.168.1.101:52396 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 14:26:30:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 14:26:30:INFO:connection open
-2026-07-23 14:26:33:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 05:05:36:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 05:05:36:INFO:connection closed
+2026-07-28 05:39:13:INFO:Syncing external DB.
+2026-07-28 05:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 05:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 05:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 06:39:13:INFO:Syncing external DB.
+2026-07-28 06:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 06:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 06:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 07:15:03:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -349,13 +308,19 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 14:26:33:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 14:26:33:INFO:connection closed
-2026-07-23 14:39:13:INFO:Syncing external DB.
-2026-07-23 14:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 14:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 14:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 15:38:57:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 07:15:03:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 07:15:03:INFO:connection closed
+2026-07-28 07:15:03:INFO:192.168.1.101:43086 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 07:15:03:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 07:15:03:INFO:connection open
+2026-07-28 07:39:13:INFO:Syncing external DB.
+2026-07-28 07:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 07:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 07:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 08:23:19:INFO:192.168.1.101:38944 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 08:23:19:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 08:23:19:INFO:connection open
+2026-07-28 08:23:21:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -387,19 +352,20 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 15:38:57:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 15:38:57:INFO:connection closed
-2026-07-23 15:39:08:INFO:192.168.1.101:38136 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 15:39:08:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 15:39:08:INFO:connection open
-2026-07-23 15:39:13:INFO:Syncing external DB.
-2026-07-23 15:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 15:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 15:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 15:44:35:INFO:192.168.1.101:53146 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 15:44:35:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 15:44:35:INFO:connection open
-2026-07-23 15:44:39:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 08:23:21:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 08:23:21:INFO:connection closed
+2026-07-28 08:39:13:INFO:Syncing external DB.
+2026-07-28 08:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 08:39:14:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 08:39:14:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 09:39:13:INFO:Syncing external DB.
+2026-07-28 09:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 09:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 09:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 10:08:27:INFO:192.168.1.101:33024 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 10:08:27:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 10:08:27:INFO:connection open
+2026-07-28 10:08:31:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -431,9 +397,21 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 15:44:39:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 15:44:39:INFO:connection closed
-2026-07-23 16:09:07:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 10:08:31:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 10:08:31:INFO:connection closed
+2026-07-28 10:39:13:INFO:Syncing external DB.
+2026-07-28 10:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 10:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 10:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 11:39:13:INFO:Syncing external DB.
+2026-07-28 11:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 11:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 11:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 12:39:13:INFO:Syncing external DB.
+2026-07-28 12:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 12:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 12:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 12:47:33:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -465,12 +443,19 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 16:09:07:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 16:09:07:INFO:connection closed
-2026-07-23 16:09:13:INFO:192.168.1.101:53028 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 16:09:13:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 16:09:13:INFO:connection open
-2026-07-23 16:15:14:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 12:47:33:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 12:47:33:INFO:connection closed
+2026-07-28 12:47:34:INFO:192.168.1.101:55770 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 12:47:34:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 12:47:34:INFO:connection open
+2026-07-28 13:39:13:INFO:Syncing external DB.
+2026-07-28 13:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 13:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 13:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 14:11:57:INFO:192.168.1.101:42674 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 14:11:57:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 14:11:57:INFO:connection open
+2026-07-28 14:11:59:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -502,12 +487,25 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 16:15:14:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 16:15:14:INFO:connection closed
-2026-07-23 16:15:15:INFO:192.168.1.101:59262 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 16:15:15:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 16:15:15:INFO:connection open
-2026-07-23 16:30:21:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 14:11:59:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 14:11:59:INFO:connection closed
+2026-07-28 14:39:13:INFO:Syncing external DB.
+2026-07-28 14:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 14:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 14:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 14:51:00:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 14:51:00:INFO:connection closed
+2026-07-28 14:51:02:INFO:192.168.1.101:34878 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 14:51:02:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 14:51:02:INFO:connection open
+2026-07-28 15:39:13:INFO:Syncing external DB.
+2026-07-28 15:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 15:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 15:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 16:22:32:INFO:192.168.1.101:54236 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 16:22:32:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 16:22:32:INFO:connection open
+2026-07-28 16:22:40:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -539,16 +537,13 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 16:30:21:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 16:30:21:INFO:connection closed
-2026-07-23 16:30:23:INFO:192.168.1.101:45324 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 16:30:23:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 16:30:23:INFO:connection open
-2026-07-23 16:39:13:INFO:Syncing external DB.
-2026-07-23 16:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 16:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 16:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 17:23:44:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 16:22:40:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 16:22:40:INFO:connection closed
+2026-07-28 16:39:13:INFO:Syncing external DB.
+2026-07-28 16:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 16:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 16:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 16:40:11:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -580,12 +575,19 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 17:23:44:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 17:23:44:INFO:connection closed
-2026-07-23 17:23:44:INFO:192.168.1.101:38848 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 17:23:44:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 17:23:44:INFO:connection open
-2026-07-23 17:38:31:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 16:40:11:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 16:40:11:INFO:connection closed
+2026-07-28 16:40:19:INFO:192.168.1.101:44606 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 16:40:19:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 16:40:19:INFO:connection open
+2026-07-28 17:39:13:INFO:Syncing external DB.
+2026-07-28 17:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 17:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 17:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 18:00:26:INFO:192.168.1.101:50158 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 18:00:26:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 18:00:26:INFO:connection open
+2026-07-28 18:00:26:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -617,16 +619,9 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 17:38:31:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 17:38:31:INFO:connection closed
-2026-07-23 17:38:45:INFO:192.168.1.101:57860 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 17:38:45:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 17:38:45:INFO:connection open
-2026-07-23 17:39:13:INFO:Syncing external DB.
-2026-07-23 17:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 17:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 17:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 17:49:56:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 18:00:26:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 18:00:26:INFO:connection closed
+2026-07-28 18:01:16:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -658,21 +653,15 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 17:49:56:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 17:49:56:INFO:connection closed
-2026-07-23 17:50:11:INFO:192.168.1.101:37466 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 17:50:11:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 17:50:11:INFO:connection open
-2026-07-23 18:39:13:INFO:Syncing external DB.
-2026-07-23 18:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 18:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 18:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 19:00:59:INFO:192.168.1.101:40098 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 19:00:59:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 19:00:59:INFO:connection open
-2026-07-23 19:01:03:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 19:01:03:INFO:connection closed
-2026-07-23 19:34:20:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 18:01:16:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 18:01:16:INFO:connection closed
+2026-07-28 18:01:20:INFO:192.168.1.101:56444 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 18:01:20:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 18:01:20:INFO:connection open
+2026-07-28 18:16:09:INFO:192.168.1.101:45874 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 18:16:09:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 18:16:09:INFO:connection open
+2026-07-28 18:16:11:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -704,19 +693,20 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 19:34:20:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 19:34:20:INFO:connection closed
-2026-07-23 19:34:26:INFO:192.168.1.101:35216 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 19:34:26:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 19:34:26:INFO:connection open
-2026-07-23 19:39:13:INFO:Syncing external DB.
-2026-07-23 19:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 19:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 19:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 20:29:13:INFO:192.168.1.101:53696 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 20:29:13:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 20:29:13:INFO:connection open
-2026-07-23 20:29:15:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 18:16:11:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 18:16:11:INFO:connection closed
+2026-07-28 18:39:13:INFO:Syncing external DB.
+2026-07-28 18:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 18:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 18:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 19:39:13:INFO:Syncing external DB.
+2026-07-28 19:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 19:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 19:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 19:44:37:INFO:192.168.1.101:52534 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 19:44:37:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 19:44:37:INFO:connection open
+2026-07-28 19:44:42:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -748,16 +738,12 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 20:29:15:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 20:29:15:INFO:connection closed
-2026-07-23 20:39:13:INFO:Syncing external DB.
-2026-07-23 20:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 20:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 20:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 21:18:01:INFO:192.168.1.101:47252 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 21:18:01:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 21:18:01:INFO:connection open
-2026-07-23 21:18:04:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 19:44:42:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 19:44:42:INFO:connection closed
+2026-07-28 20:00:44:INFO:192.168.1.101:38220 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 20:00:44:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 20:00:44:INFO:connection open
+2026-07-28 20:00:48:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -789,13 +775,12 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 21:18:04:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 21:18:04:INFO:connection closed
-2026-07-23 21:39:13:INFO:Syncing external DB.
-2026-07-23 21:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 21:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 21:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 21:48:04:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 20:00:48:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 20:00:48:INFO:connection closed
+2026-07-28 20:28:50:INFO:192.168.1.101:35114 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 20:28:50:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 20:28:50:INFO:connection open
+2026-07-28 20:28:58:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -827,15 +812,17 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 21:48:04:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 21:48:04:INFO:connection closed
-2026-07-23 21:48:08:INFO:192.168.1.101:33150 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 21:48:08:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 21:48:08:INFO:connection open
-2026-07-23 21:51:55:INFO:192.168.1.101:52682 - "WebSocket /api/v1/spool" [accepted]
-2026-07-23 21:51:55:INFO:Client 192.168.1.101 is now listening on pool spool
-2026-07-23 21:51:55:INFO:connection open
-2026-07-23 21:51:58:ERROR:ConnectionClosedError exception in shielded future
+2026-07-28 20:28:58:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 20:28:58:INFO:connection closed
+2026-07-28 20:39:13:INFO:Syncing external DB.
+2026-07-28 20:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 20:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 20:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 21:39:13:INFO:Syncing external DB.
+2026-07-28 21:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 21:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 21:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 21:55:11:ERROR:ConnectionClosedError exception in shielded future
 future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
 Traceback (most recent call last):
   File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
@@ -867,15 +854,17 @@ asyncio.exceptions.CancelledError
 The above exception was the direct cause of the following exception:
 
 websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
-2026-07-23 21:51:58:INFO:Client 192.168.1.101 has stopped listening on pool spool
-2026-07-23 21:51:58:INFO:connection closed
-2026-07-23 22:39:13:INFO:Syncing external DB.
-2026-07-23 22:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 22:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 22:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 23:39:13:INFO:Syncing external DB.
-2026-07-23 23:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
-2026-07-23 23:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
-2026-07-23 23:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
-2026-07-23 23:59:59:INFO:Performing scheduled database backup.
-2026-07-23 23:59:59:INFO:Deleting oldest backup /root/.local/share/spoolman/backups/spoolman.db.5
+2026-07-28 21:55:11:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-28 21:55:11:INFO:connection closed
+2026-07-28 21:55:16:INFO:192.168.1.101:53210 - "WebSocket /api/v1/spool" [accepted]
+2026-07-28 21:55:16:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-28 21:55:16:INFO:connection open
+2026-07-28 22:39:13:INFO:Syncing external DB.
+2026-07-28 22:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 22:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 22:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 23:39:13:INFO:Syncing external DB.
+2026-07-28 23:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-28 23:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-28 23:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-28 23:59:59:INFO:Performing scheduled database backup.
