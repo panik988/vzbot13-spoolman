@@ -1,0 +1,604 @@
+2026-07-29 00:00:00:INFO:Deleting oldest backup /root/.local/share/spoolman/backups/spoolman.db.5
+2026-07-29 00:00:00:INFO:Backing up SQLite database to /root/.local/share/spoolman/backups/spoolman.db
+2026-07-29 00:00:00:INFO:Copied 1 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 2 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 3 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 4 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 5 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 6 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 7 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 8 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 9 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 10 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 11 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 12 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 13 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 14 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 15 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 16 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 17 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 18 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 19 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 20 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 21 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 22 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 23 of 24 pages.
+2026-07-29 00:00:00:INFO:Copied 24 of 24 pages.
+2026-07-29 00:00:00:INFO:Backup complete.
+2026-07-29 00:39:13:INFO:Syncing external DB.
+2026-07-29 00:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 00:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 00:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 01:04:42:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-07-29 01:04:42:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-29 01:04:42:INFO:connection closed
+2026-07-29 01:04:44:INFO:192.168.1.101:50514 - "WebSocket /api/v1/spool" [accepted]
+2026-07-29 01:04:44:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-29 01:04:44:INFO:connection open
+2026-07-29 01:39:13:INFO:Syncing external DB.
+2026-07-29 01:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 01:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 01:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 02:39:13:INFO:Syncing external DB.
+2026-07-29 02:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 02:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 02:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 02:48:27:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-07-29 02:48:27:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-29 02:48:27:INFO:connection closed
+2026-07-29 02:48:32:INFO:192.168.1.101:43764 - "WebSocket /api/v1/spool" [accepted]
+2026-07-29 02:48:32:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-29 02:48:32:INFO:connection open
+2026-07-29 03:39:13:INFO:Syncing external DB.
+2026-07-29 03:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 03:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 03:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 04:39:13:INFO:Syncing external DB.
+2026-07-29 04:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 04:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 04:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 05:38:21:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-07-29 05:38:21:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-29 05:38:21:INFO:connection closed
+2026-07-29 05:38:22:INFO:192.168.1.101:56820 - "WebSocket /api/v1/spool" [accepted]
+2026-07-29 05:38:22:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-29 05:38:22:INFO:connection open
+2026-07-29 05:39:13:INFO:Syncing external DB.
+2026-07-29 05:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 05:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 05:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 06:08:09:INFO:192.168.1.101:47480 - "WebSocket /api/v1/spool" [accepted]
+2026-07-29 06:08:09:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-29 06:08:09:INFO:connection open
+2026-07-29 06:08:11:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-07-29 06:08:11:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-29 06:08:11:INFO:connection closed
+2026-07-29 06:39:13:INFO:Syncing external DB.
+2026-07-29 06:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 06:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 06:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 07:39:13:INFO:Syncing external DB.
+2026-07-29 07:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 07:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 07:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 07:54:36:INFO:192.168.1.101:41066 - "WebSocket /api/v1/spool" [accepted]
+2026-07-29 07:54:36:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-29 07:54:36:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-07-29 07:54:36:INFO:connection open
+2026-07-29 07:54:36:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-29 07:54:36:INFO:connection closed
+2026-07-29 08:39:13:INFO:Syncing external DB.
+2026-07-29 08:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 08:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 08:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 08:56:15:INFO:192.168.1.101:47818 - "WebSocket /api/v1/spool" [accepted]
+2026-07-29 08:56:15:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-29 08:56:15:INFO:connection open
+2026-07-29 08:56:17:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-07-29 08:56:17:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-29 08:56:17:INFO:connection closed
+2026-07-29 09:36:42:INFO:192.168.1.101:39374 - "WebSocket /api/v1/spool" [accepted]
+2026-07-29 09:36:42:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-29 09:36:42:INFO:connection open
+2026-07-29 09:36:44:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-07-29 09:36:44:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-29 09:36:44:INFO:connection closed
+2026-07-29 09:39:13:INFO:Syncing external DB.
+2026-07-29 09:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 09:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 09:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 10:00:50:INFO:192.168.1.101:46812 - "WebSocket /api/v1/spool" [accepted]
+2026-07-29 10:00:50:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-29 10:00:50:INFO:connection open
+2026-07-29 10:00:54:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-07-29 10:00:54:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-29 10:00:54:INFO:connection closed
+2026-07-29 10:24:18:INFO:192.168.1.101:38208 - "WebSocket /api/v1/spool" [accepted]
+2026-07-29 10:24:18:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-29 10:24:18:INFO:connection open
+2026-07-29 10:24:26:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-07-29 10:24:26:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-29 10:24:26:INFO:connection closed
+2026-07-29 10:39:13:INFO:Syncing external DB.
+2026-07-29 10:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 10:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 10:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 10:40:05:INFO:192.168.1.101:38862 - "WebSocket /api/v1/spool" [accepted]
+2026-07-29 10:40:05:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-29 10:40:05:INFO:connection open
+2026-07-29 10:40:09:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-07-29 10:40:09:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-29 10:40:09:INFO:connection closed
+2026-07-29 11:02:44:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-07-29 11:02:44:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-29 11:02:44:INFO:connection closed
+2026-07-29 11:02:49:INFO:192.168.1.101:35012 - "WebSocket /api/v1/spool" [accepted]
+2026-07-29 11:02:49:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-29 11:02:49:INFO:connection open
+2026-07-29 11:39:13:INFO:Syncing external DB.
+2026-07-29 11:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 11:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 11:39:14:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 11:44:56:INFO:192.168.1.101:35142 - "WebSocket /api/v1/spool" [accepted]
+2026-07-29 11:44:56:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-29 11:44:56:INFO:connection open
+2026-07-29 11:45:04:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-07-29 11:45:04:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-29 11:45:04:INFO:connection closed
+2026-07-29 12:08:06:INFO:192.168.1.101:40998 - "WebSocket /api/v1/spool" [accepted]
+2026-07-29 12:08:06:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-07-29 12:08:06:INFO:connection open
+2026-07-29 12:08:09:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-07-29 12:08:09:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-07-29 12:08:09:INFO:connection closed
+2026-07-29 12:39:13:INFO:Syncing external DB.
+2026-07-29 12:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 12:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 12:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 13:39:13:INFO:Syncing external DB.
+2026-07-29 13:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 13:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 13:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 14:39:13:INFO:Syncing external DB.
+2026-07-29 14:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 14:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 14:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 15:39:13:INFO:Syncing external DB.
+2026-07-29 15:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 15:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 15:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 16:39:13:INFO:Syncing external DB.
+2026-07-29 16:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 16:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 16:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 17:39:13:INFO:Syncing external DB.
+2026-07-29 17:39:14:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 17:39:14:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 17:39:14:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 18:39:13:INFO:Syncing external DB.
+2026-07-29 18:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 18:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 18:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 19:39:13:INFO:Syncing external DB.
+2026-07-29 19:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 19:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 19:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 20:39:13:INFO:Syncing external DB.
+2026-07-29 20:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 20:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 20:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 21:39:13:INFO:Syncing external DB.
+2026-07-29 21:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 21:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 21:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 22:39:13:INFO:Syncing external DB.
+2026-07-29 22:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 22:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 22:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-07-29 23:39:13:INFO:Syncing external DB.
+2026-07-29 23:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-07-29 23:39:13:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-07-29 23:39:13:INFO:External DB synced. Filaments: 6957, Materials: 33
