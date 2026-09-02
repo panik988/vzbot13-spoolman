@@ -1,0 +1,126 @@
+2026-09-01 23:59:59:INFO:Deleting oldest backup /root/.local/share/spoolman/backups/spoolman.db.5
+2026-09-02 00:00:00:INFO:Backing up SQLite database to /root/.local/share/spoolman/backups/spoolman.db
+2026-09-02 00:00:00:INFO:Copied 1 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 2 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 3 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 4 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 5 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 6 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 7 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 8 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 9 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 10 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 11 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 12 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 13 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 14 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 15 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 16 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 17 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 18 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 19 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 20 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 21 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 22 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 23 of 24 pages.
+2026-09-02 00:00:00:INFO:Copied 24 of 24 pages.
+2026-09-02 00:00:00:INFO:Backup complete.
+2026-09-02 00:25:58:INFO:Syncing external DB.
+2026-09-02 00:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 00:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 00:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 01:25:58:INFO:Syncing external DB.
+2026-09-02 01:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 01:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 01:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 02:25:58:INFO:Syncing external DB.
+2026-09-02 02:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 02:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 02:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 03:25:58:INFO:Syncing external DB.
+2026-09-02 03:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 03:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 03:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 04:25:58:INFO:Syncing external DB.
+2026-09-02 04:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 04:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 04:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 05:25:58:INFO:Syncing external DB.
+2026-09-02 05:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 05:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 05:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 06:25:58:INFO:Syncing external DB.
+2026-09-02 06:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 06:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 06:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 07:25:58:INFO:Syncing external DB.
+2026-09-02 07:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 07:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 07:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 08:25:58:INFO:Syncing external DB.
+2026-09-02 08:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 08:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 08:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 09:25:58:INFO:Syncing external DB.
+2026-09-02 09:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 09:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 09:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 10:25:58:INFO:Syncing external DB.
+2026-09-02 10:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 10:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 10:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 11:25:58:INFO:Syncing external DB.
+2026-09-02 11:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 11:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 11:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 12:25:58:INFO:Syncing external DB.
+2026-09-02 12:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 12:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 12:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 13:25:58:INFO:Syncing external DB.
+2026-09-02 13:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 13:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 13:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 14:25:58:INFO:Syncing external DB.
+2026-09-02 14:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 14:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 14:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 15:25:58:INFO:Syncing external DB.
+2026-09-02 15:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 15:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 15:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 16:25:58:INFO:Syncing external DB.
+2026-09-02 16:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 16:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 16:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 17:25:58:INFO:Syncing external DB.
+2026-09-02 17:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 17:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 17:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 18:25:58:INFO:Syncing external DB.
+2026-09-02 18:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 18:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 18:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 19:25:58:INFO:Syncing external DB.
+2026-09-02 19:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 19:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 19:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 20:25:58:INFO:Syncing external DB.
+2026-09-02 20:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 20:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 20:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 21:25:58:INFO:Syncing external DB.
+2026-09-02 21:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 21:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 21:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 22:25:58:INFO:Syncing external DB.
+2026-09-02 22:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 22:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 22:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 23:25:58:INFO:Syncing external DB.
+2026-09-02 23:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-02 23:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-02 23:25:58:INFO:External DB synced. Filaments: 6957, Materials: 33
+2026-09-02 23:59:59:INFO:Performing scheduled database backup.
+2026-09-02 23:59:59:INFO:Deleting oldest backup /root/.local/share/spoolman/backups/spoolman.db.5
+2026-09-02 23:59:59:INFO:Backing up SQLite database to /root/.local/share/spoolman/backups/spoolman.db
