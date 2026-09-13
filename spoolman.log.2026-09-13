@@ -1,0 +1,904 @@
+2026-09-13 00:00:00:INFO:Deleting oldest backup /root/.local/share/spoolman/backups/spoolman.db.5
+2026-09-13 00:00:00:INFO:Backing up SQLite database to /root/.local/share/spoolman/backups/spoolman.db
+2026-09-13 00:00:00:INFO:Copied 1 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 2 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 3 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 4 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 5 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 6 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 7 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 8 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 9 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 10 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 11 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 12 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 13 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 14 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 15 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 16 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 17 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 18 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 19 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 20 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 21 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 22 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 23 of 24 pages.
+2026-09-13 00:00:00:INFO:Copied 24 of 24 pages.
+2026-09-13 00:00:00:INFO:Backup complete.
+2026-09-13 00:25:58:INFO:Syncing external DB.
+2026-09-13 00:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 00:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 00:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 01:25:58:INFO:Syncing external DB.
+2026-09-13 01:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 01:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 01:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 02:25:58:INFO:Syncing external DB.
+2026-09-13 02:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 02:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 02:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 03:25:58:INFO:Syncing external DB.
+2026-09-13 03:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 03:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 03:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 04:25:58:INFO:Syncing external DB.
+2026-09-13 04:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 04:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 04:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 05:25:58:INFO:Syncing external DB.
+2026-09-13 05:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 05:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 05:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 06:25:58:INFO:Syncing external DB.
+2026-09-13 06:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 06:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 06:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 07:25:58:INFO:Syncing external DB.
+2026-09-13 07:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 07:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 07:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 08:25:58:INFO:Syncing external DB.
+2026-09-13 08:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 08:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 08:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 09:25:58:INFO:Syncing external DB.
+2026-09-13 09:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 09:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 09:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 10:25:58:INFO:Syncing external DB.
+2026-09-13 10:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 10:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 10:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 11:25:58:INFO:Syncing external DB.
+2026-09-13 11:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 11:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 11:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 12:25:58:INFO:Syncing external DB.
+2026-09-13 12:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 12:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 12:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 12:48:01:INFO:192.168.1.101:39442 - "GET /api/v1/health HTTP/1.1" 200
+2026-09-13 12:48:01:INFO:192.168.1.101:39478 - "GET /api/v1/info HTTP/1.1" 200
+2026-09-13 12:48:01:INFO:192.168.1.101:39456 - "GET /api/v1/vendor HTTP/1.1" 200
+2026-09-13 12:48:01:INFO:192.168.1.101:39466 - "GET /api/v1/spool HTTP/1.1" 200
+2026-09-13 12:48:02:INFO:192.168.1.101:39480 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:48:19:INFO:192.168.1.101:33598 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:48:42:INFO:192.168.1.101:33608 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:49:02:INFO:192.168.1.101:58630 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:49:22:INFO:192.168.1.101:34856 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:49:42:INFO:192.168.1.101:47280 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:50:02:INFO:192.168.1.101:54222 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:50:22:INFO:192.168.1.101:36454 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:50:42:INFO:192.168.1.101:40756 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:51:02:INFO:192.168.1.101:57466 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:51:22:INFO:192.168.1.101:34034 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:51:42:INFO:192.168.1.101:55190 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:52:02:INFO:192.168.1.101:60542 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:52:22:INFO:192.168.1.101:55844 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:52:42:INFO:192.168.1.101:42930 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:52:57:INFO:192.168.1.101:41712 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:53:02:INFO:192.168.1.101:39314 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:53:02:INFO:192.168.1.101:39322 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:53:03:INFO:192.168.1.101:39338 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:53:07:INFO:192.168.1.101:39350 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:53:12:INFO:192.168.1.101:48778 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:53:14:INFO:192.168.1.101:48788 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:53:17:INFO:192.168.1.101:48798 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:53:22:INFO:192.168.1.101:60934 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:53:23:INFO:192.168.1.101:60944 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:53:25:INFO:192.168.1.101:60954 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:53:28:INFO:192.168.1.101:60968 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:53:33:INFO:192.168.1.101:60560 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:53:38:INFO:192.168.1.101:60570 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:53:42:INFO:192.168.1.101:53574 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:53:43:INFO:192.168.1.101:53588 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:53:43:INFO:192.168.1.101:53602 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:53:48:INFO:192.168.1.101:53618 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:53:53:INFO:192.168.1.101:34604 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:53:58:INFO:192.168.1.101:34612 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:54:02:INFO:192.168.1.101:51782 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:54:04:INFO:192.168.1.101:51790 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:54:05:INFO:192.168.1.101:51792 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:54:09:INFO:192.168.1.101:51796 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:54:14:INFO:192.168.1.101:42732 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:54:19:INFO:192.168.1.101:42746 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:54:21:INFO:192.168.1.101:43142 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:54:22:INFO:192.168.1.101:43158 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:54:24:INFO:192.168.1.101:43168 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:54:29:INFO:192.168.1.101:32872 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:54:33:INFO:192.168.1.101:32880 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:54:35:INFO:192.168.1.101:32890 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:54:40:INFO:192.168.1.101:54946 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:54:42:INFO:192.168.1.101:54952 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:54:43:INFO:192.168.1.101:54968 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:54:45:INFO:192.168.1.101:54978 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:54:50:INFO:192.168.1.101:48014 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:54:55:INFO:192.168.1.101:48028 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:54:55:INFO:192.168.1.101:48038 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:55:00:INFO:192.168.1.101:42046 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:55:02:INFO:192.168.1.101:42052 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:55:04:INFO:192.168.1.101:42062 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:55:06:INFO:192.168.1.101:42078 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:55:11:INFO:192.168.1.101:50646 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:55:15:INFO:192.168.1.101:50654 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:55:16:INFO:192.168.1.101:50662 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:55:21:INFO:192.168.1.101:42042 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:55:22:INFO:192.168.1.101:42044 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:55:26:INFO:192.168.1.101:42048 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:55:27:INFO:192.168.1.101:42052 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:55:31:INFO:192.168.1.101:38072 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:55:36:INFO:192.168.1.101:38088 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:55:38:INFO:192.168.1.101:38104 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:55:41:INFO:192.168.1.101:57190 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:55:42:INFO:192.168.1.101:57192 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:55:46:INFO:192.168.1.101:57198 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:55:47:INFO:192.168.1.101:57200 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:55:52:INFO:192.168.1.101:53100 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:55:57:INFO:192.168.1.101:53106 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:55:59:INFO:192.168.1.101:53108 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:56:02:INFO:192.168.1.101:40696 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:56:02:INFO:192.168.1.101:40704 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:56:07:INFO:192.168.1.101:40710 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:56:10:INFO:192.168.1.101:58156 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:56:12:INFO:192.168.1.101:58158 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:56:17:INFO:192.168.1.101:58160 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:56:21:INFO:192.168.1.101:37570 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:56:22:INFO:192.168.1.101:37586 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:56:22:INFO:192.168.1.101:37602 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:56:27:INFO:192.168.1.101:37618 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:56:30:INFO:192.168.1.101:43728 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:56:33:INFO:192.168.1.101:43730 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:56:38:INFO:192.168.1.101:43734 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:56:42:INFO:192.168.1.101:37664 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:56:42:INFO:192.168.1.101:37666 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:56:43:INFO:192.168.1.101:37674 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:56:48:INFO:192.168.1.101:37678 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:56:52:INFO:192.168.1.101:44082 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:56:53:INFO:192.168.1.101:44098 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:56:58:INFO:192.168.1.101:44110 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:57:02:INFO:192.168.1.101:47226 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:57:03:INFO:192.168.1.101:47228 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:57:03:INFO:192.168.1.101:47234 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:57:08:INFO:192.168.1.101:47240 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:57:14:INFO:192.168.1.101:44788 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:57:14:INFO:192.168.1.101:44794 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:57:19:INFO:192.168.1.101:44810 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:57:22:INFO:192.168.1.101:42004 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:57:24:INFO:192.168.1.101:42014 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:57:25:INFO:192.168.1.101:42020 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:57:29:INFO:192.168.1.101:40848 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:57:34:INFO:192.168.1.101:40854 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:57:35:INFO:192.168.1.101:40866 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:57:40:INFO:192.168.1.101:60106 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:57:42:INFO:192.168.1.101:60112 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:57:45:INFO:192.168.1.101:60118 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:57:50:INFO:192.168.1.101:46810 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:57:52:INFO:192.168.1.101:46816 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:57:55:INFO:192.168.1.101:46818 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:58:00:INFO:192.168.1.101:40890 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:58:02:INFO:192.168.1.101:40896 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:58:05:INFO:192.168.1.101:40898 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:58:09:INFO:192.168.1.101:40914 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:58:11:INFO:192.168.1.101:42916 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:58:16:INFO:192.168.1.101:42924 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:58:21:INFO:192.168.1.101:46330 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 12:58:22:INFO:192.168.1.101:46332 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:58:24:INFO:192.168.1.101:46340 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:58:42:INFO:192.168.1.101:45568 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:59:02:INFO:192.168.1.101:45162 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:59:22:INFO:192.168.1.101:54966 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:59:42:INFO:192.168.1.101:32816 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 12:59:56:INFO:192.168.1.101:56894 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:00:02:INFO:192.168.1.101:34346 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:00:16:INFO:192.168.1.101:36982 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:00:22:INFO:192.168.1.101:36944 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:00:39:INFO:192.168.1.101:33372 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:00:41:INFO:192.168.1.101:41534 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:00:42:INFO:192.168.1.101:41548 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:00:43:INFO:192.168.1.101:41564 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:00:46:INFO:192.168.1.101:41574 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:00:51:INFO:192.168.1.101:33854 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:00:57:INFO:192.168.1.101:33870 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:00:57:INFO:192.168.1.101:33876 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:01:02:INFO:192.168.1.101:50538 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:01:02:INFO:192.168.1.101:50548 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:01:07:INFO:192.168.1.101:50560 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:01:12:INFO:192.168.1.101:34776 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:01:18:INFO:192.168.1.101:34784 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:01:22:INFO:192.168.1.101:59046 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:01:24:INFO:192.168.1.101:59062 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:01:29:INFO:192.168.1.101:59070 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:01:34:INFO:192.168.1.101:47400 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:01:35:INFO:192.168.1.101:47402 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:01:39:INFO:192.168.1.101:47412 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:01:42:INFO:192.168.1.101:59250 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:01:44:INFO:192.168.1.101:59256 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:01:49:INFO:192.168.1.101:54206 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:01:54:INFO:192.168.1.101:54212 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:01:54:INFO:192.168.1.101:54214 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:02:00:INFO:192.168.1.101:47794 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:02:02:INFO:192.168.1.101:47804 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:02:04:INFO:192.168.1.101:47806 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:02:22:INFO:192.168.1.101:45126 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:02:42:INFO:192.168.1.101:33628 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:03:02:INFO:192.168.1.101:41492 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:03:22:INFO:192.168.1.101:58718 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:03:42:INFO:192.168.1.101:38082 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:04:02:INFO:192.168.1.101:37122 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:04:22:INFO:192.168.1.101:34536 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:04:42:INFO:192.168.1.101:39078 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:05:02:INFO:192.168.1.101:53670 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:05:22:INFO:192.168.1.101:60560 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:05:42:INFO:192.168.1.101:43646 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:06:02:INFO:192.168.1.101:36596 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:06:42:INFO:192.168.1.101:33002 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:06:47:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-09-13 13:06:47:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-09-13 13:06:47:INFO:connection closed
+2026-09-13 13:06:48:INFO:192.168.1.101:33012 - "WebSocket /api/v1/spool" [accepted]
+2026-09-13 13:06:48:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-09-13 13:06:48:INFO:connection open
+2026-09-13 13:06:48:INFO:192.168.1.101:33022 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:07:38:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-09-13 13:07:38:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-09-13 13:07:38:INFO:connection closed
+2026-09-13 13:07:42:INFO:192.168.1.101:46444 - "WebSocket /api/v1/spool" [accepted]
+2026-09-13 13:07:42:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-09-13 13:07:42:INFO:connection open
+2026-09-13 13:07:42:INFO:192.168.1.101:46454 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:08:02:INFO:192.168.1.101:33024 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:08:22:INFO:192.168.1.101:46920 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:08:42:INFO:192.168.1.101:33372 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:08:52:INFO:192.168.1.101:54912 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:09:03:INFO:192.168.1.101:59574 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:09:22:INFO:192.168.1.101:51258 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:09:22:INFO:192.168.1.101:51270 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:09:22:INFO:192.168.1.101:51276 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:09:27:INFO:192.168.1.101:51280 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:09:27:INFO:192.168.1.101:51292 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:09:29:INFO:192.168.1.101:51298 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:09:32:INFO:192.168.1.101:33832 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:09:38:INFO:192.168.1.101:33842 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:09:41:INFO:192.168.1.101:57902 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:09:42:INFO:192.168.1.101:57908 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:09:43:INFO:192.168.1.101:57914 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:09:48:INFO:192.168.1.101:57918 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:09:53:INFO:192.168.1.101:50952 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:09:54:INFO:192.168.1.101:50964 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:09:58:INFO:192.168.1.101:50968 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:10:02:INFO:192.168.1.101:32984 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:10:03:INFO:192.168.1.101:32990 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:10:08:INFO:192.168.1.101:32996 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:10:08:INFO:192.168.1.101:33004 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:10:13:INFO:192.168.1.101:43778 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:10:19:INFO:192.168.1.101:43788 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:10:20:INFO:192.168.1.101:55860 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:10:23:INFO:192.168.1.101:55866 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:10:24:INFO:192.168.1.101:55870 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:10:29:INFO:192.168.1.101:55876 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:10:34:INFO:192.168.1.101:35290 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:10:34:INFO:192.168.1.101:35296 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:10:39:INFO:192.168.1.101:35298 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:10:42:INFO:192.168.1.101:60242 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:10:44:INFO:192.168.1.101:60258 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:10:48:INFO:192.168.1.101:60262 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:10:49:INFO:192.168.1.101:58096 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:10:55:INFO:192.168.1.101:58102 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:10:59:INFO:192.168.1.101:46318 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:11:00:INFO:192.168.1.101:46332 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:11:02:INFO:192.168.1.101:46342 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:11:05:INFO:192.168.1.101:46352 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:11:10:INFO:192.168.1.101:52368 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:11:12:INFO:192.168.1.101:52380 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:11:15:INFO:192.168.1.101:52382 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:11:20:INFO:192.168.1.101:49860 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:11:22:INFO:192.168.1.101:49862 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:11:25:INFO:192.168.1.101:49864 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:11:25:INFO:192.168.1.101:49874 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:11:31:INFO:192.168.1.101:40446 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:11:36:INFO:192.168.1.101:40456 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:11:39:INFO:192.168.1.101:40468 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:11:41:INFO:192.168.1.101:49414 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:11:42:INFO:192.168.1.101:49420 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:11:46:INFO:192.168.1.101:49432 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:11:51:INFO:192.168.1.101:36834 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:11:51:INFO:192.168.1.101:36848 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:11:56:INFO:192.168.1.101:36862 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:12:01:INFO:192.168.1.101:58828 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:12:02:INFO:192.168.1.101:58842 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:12:05:INFO:192.168.1.101:58856 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:12:06:INFO:192.168.1.101:58872 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:12:11:INFO:192.168.1.101:54534 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:12:17:INFO:192.168.1.101:54536 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:12:17:INFO:192.168.1.101:54542 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:12:22:INFO:192.168.1.101:36508 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:12:22:INFO:192.168.1.101:36518 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:12:27:INFO:192.168.1.101:36522 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:12:30:INFO:192.168.1.101:45124 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:12:32:INFO:192.168.1.101:45134 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:12:37:INFO:192.168.1.101:45138 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:12:42:INFO:192.168.1.101:58880 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:12:42:INFO:192.168.1.101:58888 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:12:43:INFO:192.168.1.101:58904 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:12:47:INFO:192.168.1.101:58916 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:12:53:INFO:192.168.1.101:39866 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:12:56:INFO:192.168.1.101:39870 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:12:58:INFO:192.168.1.101:39884 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:13:02:INFO:192.168.1.101:46118 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:13:03:INFO:192.168.1.101:46124 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:13:42:INFO:192.168.1.101:48252 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:13:42:INFO:192.168.1.101:57714 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:13:49:INFO:192.168.1.101:57730 - "WebSocket /api/v1/spool" [accepted]
+2026-09-13 13:13:49:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-09-13 13:13:49:INFO:connection open
+2026-09-13 13:13:49:INFO:192.168.1.101:57734 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:13:50:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-09-13 13:13:50:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-09-13 13:13:50:ERROR:Failed to send websocket message
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/uvicorn/protocols/websockets/websockets_impl.py", line 329, in asgi_send
+    await self.send(data)  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 620, in send
+    await self.ensure_open()
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 930, in ensure_open
+    raise self.connection_closed_exc()
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/starlette/websockets.py", line 86, in send
+    await self._send(message)
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 39, in sender
+    await send(message)
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 39, in sender
+    await send(message)
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/uvicorn/protocols/websockets/websockets_impl.py", line 342, in asgi_send
+    raise ClientDisconnected from exc
+uvicorn.protocols.utils.ClientDisconnected
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/spoolman/spoolman/database/spool.py", line 442, in spool_changed
+    await websocket_manager.send(
+    ...<7 lines>...
+    )
+  File "/opt/spoolman/spoolman/ws.py", line 99, in send
+    await self.tree.send(pool, evt)
+  File "/opt/spoolman/spoolman/ws.py", line 69, in send
+    await self.children[path[0]].send(path[1:], evt)
+  File "/opt/spoolman/spoolman/ws.py", line 65, in send
+    await websocket.send_text(evt.json())
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/starlette/websockets.py", line 166, in send_text
+    await self.send({"type": "websocket.send", "text": data})
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/starlette/websockets.py", line 89, in send
+    raise WebSocketDisconnect(code=1006)
+starlette.websockets.WebSocketDisconnect
+2026-09-13 13:13:50:INFO:192.168.1.101:57748 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:13:50:INFO:connection closed
+2026-09-13 13:13:55:INFO:192.168.1.101:44284 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:14:39:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-09-13 13:14:39:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-09-13 13:14:39:INFO:connection closed
+2026-09-13 13:15:28:INFO:192.168.1.101:49952 - "WebSocket /api/v1/spool" [accepted]
+2026-09-13 13:15:28:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-09-13 13:15:28:INFO:connection open
+2026-09-13 13:15:28:INFO:192.168.1.101:49954 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:15:28:INFO:192.168.1.101:49966 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:15:32:INFO:192.168.1.101:49728 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:15:33:INFO:192.168.1.101:49732 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:15:38:INFO:192.168.1.101:49738 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:15:43:INFO:192.168.1.101:39232 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:15:46:INFO:192.168.1.101:39246 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:15:48:INFO:192.168.1.101:39260 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:15:48:INFO:192.168.1.101:39266 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:15:54:INFO:192.168.1.101:37504 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:15:58:INFO:192.168.1.101:37518 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:15:59:INFO:192.168.1.101:37520 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:16:04:INFO:192.168.1.101:45704 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:16:08:INFO:192.168.1.101:45716 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:16:09:INFO:192.168.1.101:45718 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:16:10:INFO:192.168.1.101:57506 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:16:14:INFO:192.168.1.101:57512 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:16:20:INFO:192.168.1.101:51382 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:16:24:INFO:192.168.1.101:51386 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:16:25:INFO:192.168.1.101:51392 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:16:28:INFO:192.168.1.101:51396 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:16:30:INFO:192.168.1.101:50008 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:16:35:INFO:192.168.1.101:50014 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:16:37:INFO:192.168.1.101:50022 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:16:40:INFO:192.168.1.101:49124 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:16:45:INFO:192.168.1.101:49138 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:16:48:INFO:192.168.1.101:49152 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:16:49:INFO:192.168.1.101:33514 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:16:50:INFO:192.168.1.101:33518 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:16:55:INFO:192.168.1.101:33528 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:17:00:INFO:192.168.1.101:38492 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:17:03:INFO:192.168.1.101:38508 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:17:06:INFO:192.168.1.101:38522 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:17:08:INFO:192.168.1.101:38536 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:17:11:INFO:192.168.1.101:40504 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:17:16:INFO:192.168.1.101:40508 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:17:16:INFO:192.168.1.101:40524 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:17:21:INFO:192.168.1.101:42756 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:17:26:INFO:192.168.1.101:42768 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:17:28:INFO:192.168.1.101:42782 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:17:29:INFO:192.168.1.101:42798 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:17:31:INFO:192.168.1.101:43532 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:17:36:INFO:192.168.1.101:43542 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:17:41:INFO:192.168.1.101:58766 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:17:42:INFO:192.168.1.101:58778 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:17:47:INFO:192.168.1.101:58788 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:17:48:INFO:192.168.1.101:58796 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:17:52:INFO:192.168.1.101:53636 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:17:54:INFO:192.168.1.101:53644 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:17:57:INFO:192.168.1.101:53650 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:18:02:INFO:192.168.1.101:54732 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:18:07:INFO:192.168.1.101:54738 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:18:08:INFO:192.168.1.101:54744 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:18:08:INFO:192.168.1.101:54754 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:18:12:INFO:192.168.1.101:53138 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:18:18:INFO:192.168.1.101:53150 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:18:21:INFO:192.168.1.101:34314 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:18:23:INFO:192.168.1.101:34326 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:18:28:INFO:192.168.1.101:34332 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:18:28:INFO:192.168.1.101:34338 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:18:33:INFO:192.168.1.101:40808 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:18:34:INFO:192.168.1.101:40822 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:18:38:INFO:192.168.1.101:40826 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:18:43:INFO:192.168.1.101:48086 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:18:48:INFO:192.168.1.101:48090 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:18:48:INFO:192.168.1.101:48104 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:18:48:INFO:192.168.1.101:48114 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:18:53:INFO:192.168.1.101:34490 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:18:59:INFO:192.168.1.101:34494 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:19:00:INFO:192.168.1.101:35478 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:19:04:INFO:192.168.1.101:35482 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:19:08:INFO:192.168.1.101:35494 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:19:09:INFO:192.168.1.101:35502 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:19:12:INFO:192.168.1.101:45852 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:19:14:INFO:192.168.1.101:45866 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:19:19:INFO:192.168.1.101:37098 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:19:23:INFO:192.168.1.101:37102 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:19:24:INFO:192.168.1.101:37104 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:19:28:INFO:192.168.1.101:37116 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:19:29:INFO:192.168.1.101:54370 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:19:35:INFO:192.168.1.101:54380 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:19:36:INFO:192.168.1.101:54382 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:19:40:INFO:192.168.1.101:60472 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:19:45:INFO:192.168.1.101:60484 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:19:48:INFO:192.168.1.101:60488 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:19:48:INFO:192.168.1.101:60490 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:19:50:INFO:192.168.1.101:54126 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:19:55:INFO:192.168.1.101:54136 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:20:00:INFO:192.168.1.101:40996 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:20:00:INFO:192.168.1.101:41012 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:20:06:INFO:192.168.1.101:41022 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:20:08:INFO:192.168.1.101:41028 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:20:11:INFO:192.168.1.101:40182 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:20:14:INFO:192.168.1.101:40186 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:20:16:INFO:192.168.1.101:40198 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:20:21:INFO:192.168.1.101:57948 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:20:26:INFO:192.168.1.101:57962 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:20:26:INFO:192.168.1.101:57966 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:20:28:INFO:192.168.1.101:57982 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:20:32:INFO:192.168.1.101:34258 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:20:37:INFO:192.168.1.101:34264 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:20:39:INFO:192.168.1.101:34276 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:20:42:INFO:192.168.1.101:34004 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:20:47:INFO:192.168.1.101:34020 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:20:48:INFO:192.168.1.101:34022 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:20:52:INFO:192.168.1.101:40122 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:20:52:INFO:192.168.1.101:40136 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:20:57:INFO:192.168.1.101:40144 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:21:02:INFO:192.168.1.101:47794 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:21:06:INFO:192.168.1.101:47800 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:21:07:INFO:192.168.1.101:47810 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:21:08:INFO:192.168.1.101:47812 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:21:12:INFO:192.168.1.101:57718 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:21:18:INFO:192.168.1.101:57730 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:21:19:INFO:192.168.1.101:39654 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:21:23:INFO:192.168.1.101:39662 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:21:28:INFO:192.168.1.101:39664 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:21:28:INFO:192.168.1.101:39674 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:21:31:INFO:192.168.1.101:59144 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:21:33:INFO:192.168.1.101:59146 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:21:38:INFO:192.168.1.101:59152 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:21:43:INFO:192.168.1.101:48118 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:21:44:INFO:192.168.1.101:48128 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:21:48:INFO:192.168.1.101:48140 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:21:48:INFO:192.168.1.101:48152 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:21:53:INFO:192.168.1.101:45606 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:21:56:INFO:192.168.1.101:45616 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:21:58:INFO:192.168.1.101:45622 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:22:04:INFO:192.168.1.101:48740 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:22:08:INFO:192.168.1.101:48744 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:22:09:INFO:192.168.1.101:48746 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:22:10:INFO:192.168.1.101:51882 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:22:14:INFO:192.168.1.101:51890 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:22:19:INFO:192.168.1.101:51900 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:22:23:INFO:192.168.1.101:42284 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:22:24:INFO:192.168.1.101:42294 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:22:28:INFO:192.168.1.101:42300 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:22:29:INFO:192.168.1.101:42310 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:22:34:INFO:192.168.1.101:53496 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:22:37:INFO:192.168.1.101:53504 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:22:40:INFO:192.168.1.101:44864 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:22:45:INFO:192.168.1.101:44870 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:22:48:INFO:192.168.1.101:44872 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:22:50:INFO:192.168.1.101:52438 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:22:51:INFO:192.168.1.101:52454 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:22:55:INFO:192.168.1.101:52456 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:23:00:INFO:192.168.1.101:36648 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:23:05:INFO:192.168.1.101:36650 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:23:05:INFO:192.168.1.101:36652 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:23:08:INFO:192.168.1.101:36664 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:23:10:INFO:192.168.1.101:44498 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:23:16:INFO:192.168.1.101:44514 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:23:20:INFO:192.168.1.101:53446 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:23:21:INFO:192.168.1.101:53450 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:23:26:INFO:192.168.1.101:53460 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:23:28:INFO:192.168.1.101:53476 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:23:31:INFO:192.168.1.101:36260 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:23:36:INFO:192.168.1.101:36274 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:23:36:INFO:192.168.1.101:36280 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:23:41:INFO:192.168.1.101:56102 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:23:46:INFO:192.168.1.101:56116 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:23:48:INFO:192.168.1.101:56130 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:23:52:INFO:192.168.1.101:40332 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:23:52:INFO:192.168.1.101:40336 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:23:57:INFO:192.168.1.101:40350 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:24:02:INFO:192.168.1.101:37652 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:24:07:INFO:192.168.1.101:37666 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:24:08:INFO:192.168.1.101:37676 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:24:10:INFO:192.168.1.101:36806 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:24:12:INFO:192.168.1.101:36816 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:24:17:INFO:192.168.1.101:36820 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:24:22:INFO:192.168.1.101:48294 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:24:28:INFO:192.168.1.101:48302 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:24:28:INFO:192.168.1.101:48312 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:24:33:INFO:192.168.1.101:50462 - "PUT /api/v1/spool/2/use HTTP/1.1" 200
+2026-09-13 13:24:48:INFO:192.168.1.101:44242 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:24:51:INFO:192.168.1.101:57100 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:25:08:INFO:192.168.1.101:37626 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:25:28:INFO:192.168.1.101:50494 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:25:48:INFO:192.168.1.101:35542 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:25:58:INFO:Syncing external DB.
+2026-09-13 13:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 13:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 13:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 13:26:08:INFO:192.168.1.101:59720 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:26:28:INFO:192.168.1.101:60036 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:26:48:INFO:192.168.1.101:48680 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:27:08:INFO:192.168.1.101:44190 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:27:28:INFO:192.168.1.101:59094 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:27:48:INFO:192.168.1.101:32844 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:28:08:INFO:192.168.1.101:38052 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:28:28:INFO:192.168.1.101:35542 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:28:48:INFO:192.168.1.101:57460 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:29:08:INFO:192.168.1.101:54178 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:29:28:INFO:192.168.1.101:36716 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:29:48:INFO:192.168.1.101:45468 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:30:08:INFO:192.168.1.101:55172 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:30:28:INFO:192.168.1.101:59712 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:30:48:INFO:192.168.1.101:51804 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:31:08:INFO:192.168.1.101:60850 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:31:28:INFO:192.168.1.101:43792 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:31:48:INFO:192.168.1.101:46212 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:32:08:INFO:192.168.1.101:59296 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:32:28:INFO:192.168.1.101:56254 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:32:48:INFO:192.168.1.101:45056 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:33:28:INFO:192.168.1.101:51294 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:33:48:INFO:192.168.1.101:42356 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:34:08:INFO:192.168.1.101:45638 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:34:28:INFO:192.168.1.101:40720 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:34:48:INFO:192.168.1.101:52712 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:35:08:INFO:192.168.1.101:58604 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:35:28:INFO:192.168.1.101:55920 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:35:48:INFO:192.168.1.101:58690 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:36:08:INFO:192.168.1.101:44390 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:36:28:INFO:192.168.1.101:33164 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:36:48:INFO:192.168.1.101:50042 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:37:08:INFO:192.168.1.101:35230 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:37:28:INFO:192.168.1.101:55970 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:38:08:INFO:192.168.1.101:49840 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:38:28:INFO:192.168.1.101:48310 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:38:48:INFO:192.168.1.101:57558 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:39:08:INFO:192.168.1.101:54426 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:39:28:INFO:192.168.1.101:40788 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:39:48:INFO:192.168.1.101:57488 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:40:08:INFO:192.168.1.101:42472 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:40:28:INFO:192.168.1.101:59284 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:40:48:INFO:192.168.1.101:35456 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:41:08:INFO:192.168.1.101:35528 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:41:28:INFO:192.168.1.101:40270 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:41:48:INFO:192.168.1.101:50316 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:42:08:INFO:192.168.1.101:52596 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:42:28:INFO:192.168.1.101:41052 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:42:49:INFO:192.168.1.101:52770 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:43:08:INFO:192.168.1.101:59410 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:43:28:INFO:192.168.1.101:34366 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:43:48:INFO:192.168.1.101:49814 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:44:08:INFO:192.168.1.101:41372 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:44:29:INFO:192.168.1.101:43804 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:44:48:INFO:192.168.1.101:33992 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:45:08:INFO:192.168.1.101:47750 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:45:28:INFO:192.168.1.101:57992 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:46:08:INFO:192.168.1.101:60018 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:46:15:INFO:192.168.1.101:39070 - "WebSocket /api/v1/spool" [accepted]
+2026-09-13 13:46:15:INFO:Client 192.168.1.101 is now listening on pool spool
+2026-09-13 13:46:15:INFO:connection open
+2026-09-13 13:46:15:INFO:192.168.1.101:39078 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:46:19:ERROR:ConnectionClosedError exception in shielded future
+future: <Future finished exception=ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)>
+Traceback (most recent call last):
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1279, in close_connection
+    await self.transfer_data_task
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 945, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1015, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1090, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/protocol.py", line 1147, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/opt/spoolman/.venv/lib/python3.14/site-packages/websockets/legacy/framing.py", line 71, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 769, in readexactly
+    await self._wait_for_data('readexactly')
+  File "/root/.local/share/uv/python/cpython-3.14.6-linux-x86_64-gnu/lib/python3.14/asyncio/streams.py", line 539, in _wait_for_data
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2026-09-13 13:46:19:INFO:Client 192.168.1.101 has stopped listening on pool spool
+2026-09-13 13:46:19:INFO:connection closed
+2026-09-13 13:46:35:INFO:192.168.1.101:37744 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:46:55:INFO:192.168.1.101:53214 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:47:15:INFO:192.168.1.101:33386 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:47:36:INFO:192.168.1.101:54142 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:47:58:INFO:192.168.1.101:45212 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:48:15:INFO:192.168.1.101:38030 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:48:35:INFO:192.168.1.101:58786 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:48:55:INFO:192.168.1.101:39470 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:49:15:INFO:192.168.1.101:37884 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:49:35:INFO:192.168.1.101:42790 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:49:55:INFO:192.168.1.101:34824 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:50:15:INFO:192.168.1.101:42376 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:50:35:INFO:192.168.1.101:47736 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:50:55:INFO:192.168.1.101:58026 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:51:15:INFO:192.168.1.101:38334 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:51:35:INFO:192.168.1.101:54202 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:51:55:INFO:192.168.1.101:36038 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:52:15:INFO:192.168.1.101:33072 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:52:55:INFO:192.168.1.101:44036 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:53:35:INFO:192.168.1.101:45758 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:53:55:INFO:192.168.1.101:38572 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:54:15:INFO:192.168.1.101:54860 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:54:35:INFO:192.168.1.101:47142 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 13:54:55:INFO:192.168.1.101:57120 - "GET /api/v1/spool/2 HTTP/1.1" 200
+2026-09-13 14:25:58:INFO:Syncing external DB.
+2026-09-13 14:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 14:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 14:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 15:25:58:INFO:Syncing external DB.
+2026-09-13 15:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 15:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 15:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 16:25:58:INFO:Syncing external DB.
+2026-09-13 16:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 16:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 16:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 17:25:58:INFO:Syncing external DB.
+2026-09-13 17:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 17:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 17:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 18:25:58:INFO:Syncing external DB.
+2026-09-13 18:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 18:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 18:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 19:25:58:INFO:Syncing external DB.
+2026-09-13 19:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 19:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 19:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 20:25:58:INFO:Syncing external DB.
+2026-09-13 20:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 20:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 20:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 21:25:58:INFO:Syncing external DB.
+2026-09-13 21:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 21:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 21:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 22:25:58:INFO:Syncing external DB.
+2026-09-13 22:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 22:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 22:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
+2026-09-13 23:25:58:INFO:Syncing external DB.
+2026-09-13 23:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-09-13 23:25:58:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-09-13 23:25:58:INFO:External DB synced. Filaments: 8120, Materials: 34
