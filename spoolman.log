@@ -1,35 +1,35 @@
-2026-10-07 00:00:00:INFO:Performing scheduled database backup.
-2026-10-07 00:00:00:INFO:Backing up SQLite database to /root/.local/share/spoolman/backups/spoolman.db.pending
-2026-10-07 00:00:00:INFO:Copied 1 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 2 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 3 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 4 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 5 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 6 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 7 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 8 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 9 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 10 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 11 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 12 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 13 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 14 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 15 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 16 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 17 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 18 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 19 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 20 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 21 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 22 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 23 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 24 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 25 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 26 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 27 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 28 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 29 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 30 of 31 pages.
-2026-10-07 00:00:00:INFO:Copied 31 of 31 pages.
-2026-10-07 00:00:00:INFO:Backup complete.
-2026-10-07 00:00:00:INFO:Database is unchanged since /root/.local/share/spoolman/backups/spoolman.db, keeping the existing backup history.
+2026-10-08 00:00:00:INFO:Performing scheduled database backup.
+2026-10-08 00:00:00:INFO:Backing up SQLite database to /root/.local/share/spoolman/backups/spoolman.db.pending
+2026-10-08 00:00:00:INFO:Copied 1 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 2 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 3 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 4 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 5 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 6 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 7 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 8 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 9 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 10 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 11 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 12 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 13 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 14 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 15 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 16 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 17 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 18 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 19 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 20 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 21 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 22 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 23 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 24 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 25 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 26 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 27 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 28 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 29 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 30 of 31 pages.
+2026-10-08 00:00:00:INFO:Copied 31 of 31 pages.
+2026-10-08 00:00:00:INFO:Backup complete.
+2026-10-08 00:00:00:INFO:Database is unchanged since /root/.local/share/spoolman/backups/spoolman.db, keeping the existing backup history.
