@@ -1,0 +1,514 @@
+2026-11-03 00:00:00:INFO:Copied 1 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 2 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 3 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 4 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 5 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 6 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 7 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 8 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 9 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 10 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 11 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 12 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 13 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 14 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 15 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 16 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 17 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 18 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 19 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 20 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 21 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 22 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 23 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 24 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 25 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 26 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 27 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 28 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 29 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 30 of 31 pages.
+2026-11-03 00:00:00:INFO:Copied 31 of 31 pages.
+2026-11-03 00:00:00:INFO:Backup complete.
+2026-11-03 00:00:00:INFO:Database is unchanged since /root/.local/share/spoolman/backups/spoolman.db, keeping the existing backup history.
+2026-11-03 00:06:02:INFO:192.168.1.253:56738 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 00:06:02:INFO:192.168.1.253:56738 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 00:06:02:INFO:192.168.1.253:56738 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 00:06:02:INFO:192.168.1.253:56738 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 00:09:48:INFO:Syncing external DB.
+2026-11-03 00:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 00:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 00:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 00:21:02:INFO:192.168.1.253:49188 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 00:21:02:INFO:192.168.1.253:49188 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 00:21:02:INFO:192.168.1.253:49188 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 00:21:02:INFO:192.168.1.253:49188 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 00:36:02:INFO:192.168.1.253:54350 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 00:36:02:INFO:192.168.1.253:54350 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 00:36:02:INFO:192.168.1.253:54350 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 00:36:02:INFO:192.168.1.253:54350 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 00:51:02:INFO:192.168.1.253:44892 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 00:51:02:INFO:192.168.1.253:44892 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 00:51:02:INFO:192.168.1.253:44892 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 00:51:02:INFO:192.168.1.253:44892 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 01:06:02:INFO:192.168.1.253:42492 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 01:06:02:INFO:192.168.1.253:42492 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 01:06:02:INFO:192.168.1.253:42492 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 01:06:02:INFO:192.168.1.253:42492 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 01:09:48:INFO:Syncing external DB.
+2026-11-03 01:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 01:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 01:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 01:21:02:INFO:192.168.1.253:58772 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 01:21:02:INFO:192.168.1.253:58772 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 01:21:02:INFO:192.168.1.253:58772 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 01:21:02:INFO:192.168.1.253:58772 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 01:36:02:INFO:192.168.1.253:48856 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 01:36:02:INFO:192.168.1.253:48856 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 01:36:02:INFO:192.168.1.253:48856 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 01:36:02:INFO:192.168.1.253:48856 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 01:51:02:INFO:192.168.1.253:50462 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 01:51:02:INFO:192.168.1.253:50462 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 01:51:02:INFO:192.168.1.253:50462 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 01:51:02:INFO:192.168.1.253:50462 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 02:06:02:INFO:192.168.1.253:49330 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 02:06:02:INFO:192.168.1.253:49330 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 02:06:02:INFO:192.168.1.253:49330 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 02:06:02:INFO:192.168.1.253:49330 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 02:09:48:INFO:Syncing external DB.
+2026-11-03 02:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 02:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 02:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 02:21:02:INFO:192.168.1.253:35820 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 02:21:02:INFO:192.168.1.253:35820 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 02:21:02:INFO:192.168.1.253:35820 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 02:21:02:INFO:192.168.1.253:35820 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 02:36:02:INFO:192.168.1.253:58908 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 02:36:02:INFO:192.168.1.253:58908 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 02:36:02:INFO:192.168.1.253:58908 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 02:36:02:INFO:192.168.1.253:58908 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 02:51:02:INFO:192.168.1.253:38252 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 02:51:02:INFO:192.168.1.253:38252 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 02:51:02:INFO:192.168.1.253:38252 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 02:51:02:INFO:192.168.1.253:38252 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 03:06:02:INFO:192.168.1.253:59554 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 03:06:02:INFO:192.168.1.253:59554 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 03:06:02:INFO:192.168.1.253:59554 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 03:06:02:INFO:192.168.1.253:59554 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 03:09:48:INFO:Syncing external DB.
+2026-11-03 03:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 03:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 03:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 03:21:02:INFO:192.168.1.253:55996 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 03:21:02:INFO:192.168.1.253:55996 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 03:21:02:INFO:192.168.1.253:55996 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 03:21:02:INFO:192.168.1.253:55996 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 03:36:02:INFO:192.168.1.253:43028 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 03:36:02:INFO:192.168.1.253:43028 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 03:36:02:INFO:192.168.1.253:43028 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 03:36:02:INFO:192.168.1.253:43028 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 03:51:02:INFO:192.168.1.253:55718 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 03:51:02:INFO:192.168.1.253:55718 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 03:51:02:INFO:192.168.1.253:55718 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 03:51:02:INFO:192.168.1.253:55718 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 04:06:02:INFO:192.168.1.253:49320 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 04:06:02:INFO:192.168.1.253:49320 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 04:06:02:INFO:192.168.1.253:49320 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 04:06:02:INFO:192.168.1.253:49320 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 04:09:48:INFO:Syncing external DB.
+2026-11-03 04:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 04:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 04:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 04:21:02:INFO:192.168.1.253:56438 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 04:21:02:INFO:192.168.1.253:56438 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 04:21:02:INFO:192.168.1.253:56438 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 04:21:02:INFO:192.168.1.253:56438 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 04:36:02:INFO:192.168.1.253:37922 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 04:36:02:INFO:192.168.1.253:37922 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 04:36:02:INFO:192.168.1.253:37922 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 04:36:02:INFO:192.168.1.253:37922 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 04:51:02:INFO:192.168.1.253:39912 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 04:51:02:INFO:192.168.1.253:39912 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 04:51:02:INFO:192.168.1.253:39912 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 04:51:02:INFO:192.168.1.253:39912 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 05:06:02:INFO:192.168.1.253:45248 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 05:06:02:INFO:192.168.1.253:45248 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 05:06:02:INFO:192.168.1.253:45248 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 05:06:02:INFO:192.168.1.253:45248 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 05:09:48:INFO:Syncing external DB.
+2026-11-03 05:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 05:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 05:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 05:21:02:INFO:192.168.1.253:48164 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 05:21:02:INFO:192.168.1.253:48164 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 05:21:02:INFO:192.168.1.253:48164 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 05:21:02:INFO:192.168.1.253:48164 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 05:36:02:INFO:192.168.1.253:52334 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 05:36:02:INFO:192.168.1.253:52334 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 05:36:02:INFO:192.168.1.253:52334 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 05:36:02:INFO:192.168.1.253:52334 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 05:51:02:INFO:192.168.1.253:41250 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 05:51:02:INFO:192.168.1.253:41250 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 05:51:02:INFO:192.168.1.253:41250 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 05:51:02:INFO:192.168.1.253:41250 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 06:06:02:INFO:192.168.1.253:35316 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 06:06:02:INFO:192.168.1.253:35316 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 06:06:02:INFO:192.168.1.253:35316 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 06:06:02:INFO:192.168.1.253:35316 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 06:09:48:INFO:Syncing external DB.
+2026-11-03 06:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 06:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 06:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 06:21:02:INFO:192.168.1.253:43218 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 06:21:02:INFO:192.168.1.253:43218 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 06:21:02:INFO:192.168.1.253:43218 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 06:21:02:INFO:192.168.1.253:43218 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 06:36:02:INFO:192.168.1.253:56920 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 06:36:02:INFO:192.168.1.253:56920 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 06:36:02:INFO:192.168.1.253:56920 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 06:36:02:INFO:192.168.1.253:56920 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 06:51:02:INFO:192.168.1.253:42330 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 06:51:02:INFO:192.168.1.253:42330 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 06:51:02:INFO:192.168.1.253:42330 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 06:51:02:INFO:192.168.1.253:42330 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 07:06:02:INFO:192.168.1.253:52632 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 07:06:02:INFO:192.168.1.253:52632 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 07:06:02:INFO:192.168.1.253:52632 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 07:06:02:INFO:192.168.1.253:52632 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 07:09:48:INFO:Syncing external DB.
+2026-11-03 07:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 07:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 07:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 07:21:02:INFO:192.168.1.253:44200 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 07:21:02:INFO:192.168.1.253:44200 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 07:21:02:INFO:192.168.1.253:44200 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 07:21:02:INFO:192.168.1.253:44200 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 07:36:02:INFO:192.168.1.253:42554 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 07:36:02:INFO:192.168.1.253:42554 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 07:36:02:INFO:192.168.1.253:42554 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 07:36:02:INFO:192.168.1.253:42554 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 07:51:02:INFO:192.168.1.253:34430 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 07:51:02:INFO:192.168.1.253:34430 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 07:51:02:INFO:192.168.1.253:34430 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 07:51:02:INFO:192.168.1.253:34430 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 08:06:02:INFO:192.168.1.253:34086 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 08:06:02:INFO:192.168.1.253:34086 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 08:06:02:INFO:192.168.1.253:34086 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 08:06:02:INFO:192.168.1.253:34086 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 08:09:48:INFO:Syncing external DB.
+2026-11-03 08:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 08:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 08:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 08:21:02:INFO:192.168.1.253:38052 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 08:21:02:INFO:192.168.1.253:38052 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 08:21:02:INFO:192.168.1.253:38052 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 08:21:02:INFO:192.168.1.253:38052 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 08:36:02:INFO:192.168.1.253:52696 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 08:36:02:INFO:192.168.1.253:52696 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 08:36:02:INFO:192.168.1.253:52696 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 08:36:02:INFO:192.168.1.253:52696 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 08:51:02:INFO:192.168.1.253:35620 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 08:51:02:INFO:192.168.1.253:35620 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 08:51:02:INFO:192.168.1.253:35620 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 08:51:02:INFO:192.168.1.253:35620 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 09:06:02:INFO:192.168.1.253:42164 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 09:06:02:INFO:192.168.1.253:42164 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 09:06:02:INFO:192.168.1.253:42164 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 09:06:02:INFO:192.168.1.253:42164 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 09:09:48:INFO:Syncing external DB.
+2026-11-03 09:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 09:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 09:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 09:21:02:INFO:192.168.1.253:37824 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 09:21:02:INFO:192.168.1.253:37824 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 09:21:02:INFO:192.168.1.253:37824 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 09:21:02:INFO:192.168.1.253:37824 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 09:36:02:INFO:192.168.1.253:59568 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 09:36:02:INFO:192.168.1.253:59568 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 09:36:02:INFO:192.168.1.253:59568 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 09:36:02:INFO:192.168.1.253:59568 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 09:51:02:INFO:192.168.1.253:35592 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 09:51:02:INFO:192.168.1.253:35592 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 09:51:02:INFO:192.168.1.253:35592 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 09:51:02:INFO:192.168.1.253:35592 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 10:06:02:INFO:192.168.1.253:59312 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 10:06:02:INFO:192.168.1.253:59312 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 10:06:02:INFO:192.168.1.253:59312 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 10:06:02:INFO:192.168.1.253:59312 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 10:09:48:INFO:Syncing external DB.
+2026-11-03 10:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 10:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 10:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 10:21:02:INFO:192.168.1.253:57586 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 10:21:02:INFO:192.168.1.253:57586 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 10:21:02:INFO:192.168.1.253:57586 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 10:21:02:INFO:192.168.1.253:57586 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 10:36:02:INFO:192.168.1.253:52666 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 10:36:02:INFO:192.168.1.253:52666 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 10:36:02:INFO:192.168.1.253:52666 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 10:36:02:INFO:192.168.1.253:52666 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 10:51:02:INFO:192.168.1.253:33888 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 10:51:02:INFO:192.168.1.253:33888 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 10:51:02:INFO:192.168.1.253:33888 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 10:51:02:INFO:192.168.1.253:33888 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 11:06:02:INFO:192.168.1.253:33170 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 11:06:02:INFO:192.168.1.253:33170 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 11:06:02:INFO:192.168.1.253:33170 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 11:06:02:INFO:192.168.1.253:33170 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 11:09:48:INFO:Syncing external DB.
+2026-11-03 11:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 11:09:49:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 11:09:49:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 11:21:02:INFO:192.168.1.253:34098 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 11:21:02:INFO:192.168.1.253:34098 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 11:21:02:INFO:192.168.1.253:34098 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 11:21:02:INFO:192.168.1.253:34098 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 11:36:02:INFO:192.168.1.253:59720 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 11:36:02:INFO:192.168.1.253:59720 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 11:36:02:INFO:192.168.1.253:59720 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 11:36:02:INFO:192.168.1.253:59720 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 11:51:02:INFO:192.168.1.253:32798 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 11:51:02:INFO:192.168.1.253:32798 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 11:51:02:INFO:192.168.1.253:32798 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 11:51:02:INFO:192.168.1.253:32798 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 12:06:02:INFO:192.168.1.253:52144 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 12:06:02:INFO:192.168.1.253:52144 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 12:06:02:INFO:192.168.1.253:52144 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 12:06:02:INFO:192.168.1.253:52144 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 12:09:48:INFO:Syncing external DB.
+2026-11-03 12:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 12:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 12:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 12:21:02:INFO:192.168.1.253:38300 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 12:21:02:INFO:192.168.1.253:38300 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 12:21:02:INFO:192.168.1.253:38300 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 12:21:02:INFO:192.168.1.253:38300 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 12:36:02:INFO:192.168.1.253:39918 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 12:36:02:INFO:192.168.1.253:39918 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 12:36:02:INFO:192.168.1.253:39918 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 12:36:02:INFO:192.168.1.253:39918 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 12:51:02:INFO:192.168.1.253:45422 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 12:51:02:INFO:192.168.1.253:45422 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 12:51:02:INFO:192.168.1.253:45422 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 12:51:02:INFO:192.168.1.253:45422 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 13:06:02:INFO:192.168.1.253:44586 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 13:06:02:INFO:192.168.1.253:44586 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 13:06:02:INFO:192.168.1.253:44586 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 13:06:02:INFO:192.168.1.253:44586 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 13:09:48:INFO:Syncing external DB.
+2026-11-03 13:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 13:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 13:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 13:21:02:INFO:192.168.1.253:49698 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 13:21:02:INFO:192.168.1.253:49698 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 13:21:02:INFO:192.168.1.253:49698 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 13:21:02:INFO:192.168.1.253:49698 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 13:36:02:INFO:192.168.1.253:55508 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 13:36:02:INFO:192.168.1.253:55508 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 13:36:02:INFO:192.168.1.253:55508 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 13:36:02:INFO:192.168.1.253:55508 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 13:51:02:INFO:192.168.1.253:38838 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 13:51:02:INFO:192.168.1.253:38838 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 13:51:02:INFO:192.168.1.253:38838 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 13:51:02:INFO:192.168.1.253:38838 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 14:06:02:INFO:192.168.1.253:46442 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 14:06:02:INFO:192.168.1.253:46442 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 14:06:02:INFO:192.168.1.253:46442 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 14:06:02:INFO:192.168.1.253:46442 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 14:09:48:INFO:Syncing external DB.
+2026-11-03 14:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 14:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 14:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 14:21:02:INFO:192.168.1.253:50820 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 14:21:02:INFO:192.168.1.253:50820 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 14:21:02:INFO:192.168.1.253:50820 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 14:21:02:INFO:192.168.1.253:50820 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 14:36:02:INFO:192.168.1.253:51844 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 14:36:02:INFO:192.168.1.253:51844 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 14:36:02:INFO:192.168.1.253:51844 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 14:36:02:INFO:192.168.1.253:51844 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 14:51:02:INFO:192.168.1.253:59222 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 14:51:02:INFO:192.168.1.253:59222 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 14:51:02:INFO:192.168.1.253:59222 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 14:51:02:INFO:192.168.1.253:59222 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 15:06:02:INFO:192.168.1.253:41826 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 15:06:02:INFO:192.168.1.253:41826 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 15:06:02:INFO:192.168.1.253:41826 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 15:06:02:INFO:192.168.1.253:41826 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 15:09:48:INFO:Syncing external DB.
+2026-11-03 15:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 15:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 15:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 15:21:02:INFO:192.168.1.253:45418 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 15:21:02:INFO:192.168.1.253:45418 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 15:21:02:INFO:192.168.1.253:45418 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 15:21:02:INFO:192.168.1.253:45418 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 15:36:02:INFO:192.168.1.253:56268 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 15:36:02:INFO:192.168.1.253:56268 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 15:36:02:INFO:192.168.1.253:56268 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 15:36:02:INFO:192.168.1.253:56268 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 15:51:02:INFO:192.168.1.253:48366 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 15:51:02:INFO:192.168.1.253:48366 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 15:51:02:INFO:192.168.1.253:48366 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 15:51:02:INFO:192.168.1.253:48366 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 16:06:02:INFO:192.168.1.253:50802 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 16:06:02:INFO:192.168.1.253:50802 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 16:06:02:INFO:192.168.1.253:50802 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 16:06:02:INFO:192.168.1.253:50802 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 16:09:48:INFO:Syncing external DB.
+2026-11-03 16:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 16:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 16:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 16:21:02:INFO:192.168.1.253:60682 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 16:21:02:INFO:192.168.1.253:60682 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 16:21:02:INFO:192.168.1.253:60682 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 16:21:02:INFO:192.168.1.253:60682 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 16:36:02:INFO:192.168.1.253:53284 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 16:36:02:INFO:192.168.1.253:53284 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 16:36:02:INFO:192.168.1.253:53284 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 16:36:02:INFO:192.168.1.253:53284 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 16:51:02:INFO:192.168.1.253:37894 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 16:51:02:INFO:192.168.1.253:37894 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 16:51:02:INFO:192.168.1.253:37894 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 16:51:02:INFO:192.168.1.253:37894 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 17:06:02:INFO:192.168.1.253:42050 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 17:06:02:INFO:192.168.1.253:42050 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 17:06:02:INFO:192.168.1.253:42050 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 17:06:02:INFO:192.168.1.253:42050 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 17:09:48:INFO:Syncing external DB.
+2026-11-03 17:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 17:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 17:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 17:21:02:INFO:192.168.1.253:42536 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 17:21:02:INFO:192.168.1.253:42536 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 17:21:02:INFO:192.168.1.253:42536 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 17:21:02:INFO:192.168.1.253:42536 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 17:36:02:INFO:192.168.1.253:33790 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 17:36:02:INFO:192.168.1.253:33790 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 17:36:02:INFO:192.168.1.253:33790 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 17:36:02:INFO:192.168.1.253:33790 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 17:51:02:INFO:192.168.1.253:56150 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 17:51:02:INFO:192.168.1.253:56150 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 17:51:02:INFO:192.168.1.253:56150 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 17:51:02:INFO:192.168.1.253:56150 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 18:06:02:INFO:192.168.1.253:55016 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 18:06:02:INFO:192.168.1.253:55016 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 18:06:02:INFO:192.168.1.253:55016 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 18:06:02:INFO:192.168.1.253:55016 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 18:09:48:INFO:Syncing external DB.
+2026-11-03 18:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 18:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 18:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 18:21:02:INFO:192.168.1.253:47482 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 18:21:02:INFO:192.168.1.253:47482 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 18:21:02:INFO:192.168.1.253:47482 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 18:21:02:INFO:192.168.1.253:47482 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 18:36:02:INFO:192.168.1.253:37528 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 18:36:02:INFO:192.168.1.253:37528 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 18:36:02:INFO:192.168.1.253:37528 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 18:36:02:INFO:192.168.1.253:37528 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 18:51:02:INFO:192.168.1.253:40308 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 18:51:02:INFO:192.168.1.253:40308 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 18:51:02:INFO:192.168.1.253:40308 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 18:51:02:INFO:192.168.1.253:40308 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 19:06:02:INFO:192.168.1.253:42570 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 19:06:02:INFO:192.168.1.253:42570 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 19:06:02:INFO:192.168.1.253:42570 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 19:06:02:INFO:192.168.1.253:42570 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 19:09:48:INFO:Syncing external DB.
+2026-11-03 19:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 19:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 19:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 19:21:02:INFO:192.168.1.253:50728 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 19:21:02:INFO:192.168.1.253:50728 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 19:21:02:INFO:192.168.1.253:50728 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 19:21:02:INFO:192.168.1.253:50728 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 19:36:02:INFO:192.168.1.253:50582 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 19:36:02:INFO:192.168.1.253:50582 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 19:36:02:INFO:192.168.1.253:50582 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 19:36:02:INFO:192.168.1.253:50582 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 19:51:02:INFO:192.168.1.253:35644 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 19:51:02:INFO:192.168.1.253:35644 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 19:51:02:INFO:192.168.1.253:35644 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 19:51:02:INFO:192.168.1.253:35644 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 20:06:02:INFO:192.168.1.253:40032 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 20:06:02:INFO:192.168.1.253:40032 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 20:06:02:INFO:192.168.1.253:40032 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 20:06:02:INFO:192.168.1.253:40032 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 20:09:48:INFO:Syncing external DB.
+2026-11-03 20:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 20:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 20:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 20:21:02:INFO:192.168.1.253:39106 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 20:21:02:INFO:192.168.1.253:39106 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 20:21:02:INFO:192.168.1.253:39106 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 20:21:02:INFO:192.168.1.253:39106 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 20:36:02:INFO:192.168.1.253:45542 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 20:36:02:INFO:192.168.1.253:45542 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 20:36:02:INFO:192.168.1.253:45542 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 20:36:02:INFO:192.168.1.253:45542 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 20:51:02:INFO:192.168.1.253:48248 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 20:51:02:INFO:192.168.1.253:48248 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 20:51:02:INFO:192.168.1.253:48248 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 20:51:02:INFO:192.168.1.253:48248 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 21:06:02:INFO:192.168.1.253:48398 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 21:06:02:INFO:192.168.1.253:48398 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 21:06:02:INFO:192.168.1.253:48398 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 21:06:02:INFO:192.168.1.253:48398 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 21:09:48:INFO:Syncing external DB.
+2026-11-03 21:09:49:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 21:09:49:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 21:09:49:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 21:21:02:INFO:192.168.1.253:40096 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 21:21:02:INFO:192.168.1.253:40096 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 21:21:02:INFO:192.168.1.253:40096 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 21:21:02:INFO:192.168.1.253:40096 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 21:36:02:INFO:192.168.1.253:32964 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 21:36:02:INFO:192.168.1.253:32964 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 21:36:02:INFO:192.168.1.253:32964 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 21:36:02:INFO:192.168.1.253:32964 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 21:51:02:INFO:192.168.1.253:59616 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 21:51:02:INFO:192.168.1.253:59616 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 21:51:02:INFO:192.168.1.253:59616 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 21:51:02:INFO:192.168.1.253:59616 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 22:06:02:INFO:192.168.1.253:35500 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 22:06:02:INFO:192.168.1.253:35500 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 22:06:02:INFO:192.168.1.253:35500 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 22:06:02:INFO:192.168.1.253:35500 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 22:09:48:INFO:Syncing external DB.
+2026-11-03 22:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 22:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 22:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 22:21:02:INFO:192.168.1.253:44252 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 22:21:02:INFO:192.168.1.253:44252 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 22:21:02:INFO:192.168.1.253:44252 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 22:21:02:INFO:192.168.1.253:44252 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 22:36:02:INFO:192.168.1.253:49200 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 22:36:02:INFO:192.168.1.253:49200 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 22:36:02:INFO:192.168.1.253:49200 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 22:36:02:INFO:192.168.1.253:49200 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 22:51:02:INFO:192.168.1.253:55340 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 22:51:02:INFO:192.168.1.253:55340 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 22:51:02:INFO:192.168.1.253:55340 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 22:51:02:INFO:192.168.1.253:55340 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 23:06:02:INFO:192.168.1.253:36924 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 23:06:02:INFO:192.168.1.253:36924 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 23:06:02:INFO:192.168.1.253:36924 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 23:06:02:INFO:192.168.1.253:36924 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 23:09:48:INFO:Syncing external DB.
+2026-11-03 23:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2026-11-03 23:09:48:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2026-11-03 23:09:48:INFO:External DB synced. Filaments: 9464, Materials: 34
+2026-11-03 23:21:02:INFO:192.168.1.253:53362 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 23:21:02:INFO:192.168.1.253:53362 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 23:21:02:INFO:192.168.1.253:53362 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 23:21:02:INFO:192.168.1.253:53362 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 23:36:02:INFO:192.168.1.253:34322 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 23:36:02:INFO:192.168.1.253:34322 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 23:36:02:INFO:192.168.1.253:34322 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 23:36:02:INFO:192.168.1.253:34322 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 23:51:02:INFO:192.168.1.253:47094 - "GET /api/v1/spool?allow_archived=False HTTP/1.1" 200
+2026-11-03 23:51:02:INFO:192.168.1.253:47094 - "GET /api/v1/filament HTTP/1.1" 200
+2026-11-03 23:51:02:INFO:192.168.1.253:47094 - "GET /api/v1/field/spool HTTP/1.1" 200
+2026-11-03 23:51:02:INFO:192.168.1.253:47094 - "GET /api/v1/location HTTP/1.1" 200
+2026-11-03 23:59:59:INFO:Performing scheduled database backup.
