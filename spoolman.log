@@ -1,3 +1,4 @@
-2026-11-12 00:00:00:INFO:Backing up SQLite database to /root/.local/share/spoolman/backups/spoolman.db.pending
-2026-11-12 00:00:00:INFO:Backup complete.
-2026-11-12 00:00:00:INFO:Database is unchanged since /root/.local/share/spoolman/backups/spoolman.db, keeping the existing backup history.
+2026-11-13 00:00:00:INFO:Performing scheduled database backup.
+2026-11-13 00:00:00:INFO:Backing up SQLite database to /root/.local/share/spoolman/backups/spoolman.db.pending
+2026-11-13 00:00:00:INFO:Backup complete.
+2026-11-13 00:00:00:INFO:Database is unchanged since /root/.local/share/spoolman/backups/spoolman.db, keeping the existing backup history.
